@@ -17,9 +17,22 @@ table td:first-child {
 div.container {
     margin-left: 70px;
     margin-right: 70px;
-    font-size: 20px;
+    font-size: large;
 }
 
 h1,h2 {
     text-align: center;
+}
+.image-container {
+    display: flex;
+    gap: 10px; /* Adjust the spacing as needed */
+}
+
+.image-container div {
+    text-align: center; /* Center text horizontally */
+}
+
+.image-container img {
+    width: 70%;
+    height: auto;
 }
