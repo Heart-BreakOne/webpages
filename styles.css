@@ -1,0 +1,25 @@
+table {
+    margin-left: 70px;
+    margin-right: 70px;
+    border-collapse: separate;
+    border-spacing: 0 2px;
+
+}
+
+table td {
+    border: 1px solid black;
+}
+
+table td:first-child {
+    font-weight: bold;
+}
+
+div.container {
+    margin-left: 70px;
+    margin-right: 70px;
+    font-size: 20px;
+}
+
+h1,h2 {
+    text-align: center;
+}
