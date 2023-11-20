@@ -1,0 +1,3882 @@
+{
+    "MapNodes": {
+        "map12nodea6": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map12",
+            "NodeConnections": "map12nodea7",
+            "NodeType": "spiesambush",
+            "Uid": "map12nodea6"
+        },
+        "map12nodea8": {
+            "ChestType": "chestboss",
+            "MapId": "map12",
+            "NodeConnections": "",
+            "NodeType": "spiessupport",
+            "Uid": "map12nodea8"
+        },
+        "map12nodeb6": {
+            "ChestType": "chestboss",
+            "MapId": "map12",
+            "NodeConnections": "",
+            "NodeType": "spiesmelee",
+            "Uid": "map12nodeb6"
+        },
+        "map12noded1": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map12",
+            "NodeConnections": "map12nodec5",
+            "NodeType": "spiescolumns",
+            "Uid": "map12noded1"
+        },
+        "map13nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map13",
+            "NodeConnections": "",
+            "NodeType": "spiessupport",
+            "Uid": "map13nodea10"
+        },
+        "map13nodeb2": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map13",
+            "NodeConnections": "map13nodeb3",
+            "NodeType": "spieswarehouse",
+            "Uid": "map13nodeb2"
+        },
+        "map13nodeb6": {
+            "ChestType": "chestboostedskin",
+            "MapId": "map13",
+            "NodeConnections": "map13nodeb7",
+            "NodeType": "spiescitysquares",
+            "Uid": "map13nodeb6"
+        },
+        "map13nodeb7": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map13",
+            "NodeConnections": "map13nodeb8,map13nodea8",
+            "NodeType": "streamerboss",
+            "Uid": "map13nodeb7"
+        },
+        "map13nodec6": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map13",
+            "NodeConnections": "map13nodec7",
+            "NodeType": "spiescitygardens",
+            "Uid": "map13nodec6"
+        },
+        "map14nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map14",
+            "NodeConnections": "",
+            "NodeType": "spiesmelee",
+            "Uid": "map14nodea10"
+        },
+        "map14nodea5": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map14",
+            "NodeConnections": "map14nodea6,map14nodeb6",
+            "NodeType": "streamerboss",
+            "Uid": "map14nodea5"
+        },
+        "map14nodea7": {
+            "ChestType": "chestboostedskin",
+            "MapId": "map14",
+            "NodeConnections": "map14nodea8",
+            "NodeType": "spiesstorage",
+            "Uid": "map14nodea7"
+        },
+        "map14nodec10": {
+            "ChestType": "chestboss",
+            "MapId": "map14",
+            "NodeConnections": "",
+            "NodeType": "spiessupport",
+            "Uid": "map14nodec10"
+        },
+        "map14nodec3": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map14",
+            "NodeConnections": "map14nodec4",
+            "NodeType": "spiescityfieldsdesert",
+            "Uid": "map14nodec3"
+        },
+        "map14nodec5": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map14",
+            "NodeConnections": "map14nodec6,map14nodec7",
+            "NodeType": "streamerboss",
+            "Uid": "map14nodec5"
+        },
+        "map15nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map15",
+            "NodeConnections": "",
+            "NodeType": "spiesmelee",
+            "Uid": "map15nodea10"
+        },
+        "map15nodeb6": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map15",
+            "NodeConnections": "map15nodeb7,map15nodea7",
+            "NodeType": "streamerboss",
+            "Uid": "map15nodeb6"
+        },
+        "map15nodec5": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map15",
+            "NodeConnections": "map15nodec6",
+            "NodeType": "streamerboss",
+            "Uid": "map15nodec5"
+        },
+        "map15nodec6": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map15",
+            "NodeConnections": "map15nodec7",
+            "NodeType": "spiescolumns",
+            "Uid": "map15nodec6"
+        },
+        "map16nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map16",
+            "NodeConnections": "",
+            "NodeType": "spiessupport",
+            "Uid": "map16nodea10"
+        },
+        "map16nodea8": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map16",
+            "NodeConnections": "map16nodea9",
+            "NodeType": "streamerboss",
+            "Uid": "map16nodea8"
+        },
+        "map16nodeb10": {
+            "ChestType": "chestboss",
+            "MapId": "map16",
+            "NodeConnections": "",
+            "NodeType": "spiesmelee",
+            "Uid": "map16nodeb10"
+        },
+        "map16nodeb7": {
+            "ChestType": "chestboostedskin",
+            "MapId": "map16",
+            "NodeConnections": "map16nodeb8,map16nodec8",
+            "NodeType": "streamerboss",
+            "Uid": "map16nodeb7"
+        },
+        "map16nodec2": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map16",
+            "NodeConnections": "map16nodec3,map16nodeb4",
+            "NodeType": "spiesmilitarybase",
+            "Uid": "map16nodec2"
+        },
+        "map16nodec8": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map16",
+            "NodeConnections": "map16nodeb9,map16nodea9",
+            "NodeType": "spiescitylakebeach",
+            "Uid": "map16nodec8"
+        },
+        "map17nodea10": {
+            "ChestType": "chestbosssuper",
+            "MapId": "map17",
+            "NodeConnections": "",
+            "NodeType": "spiesthecamouflage",
+            "Uid": "map17nodea10"
+        },
+        "map17nodea7": {
+            "ChestType": "chestboostedskin",
+            "MapId": "map17",
+            "NodeConnections": "map17nodea8",
+            "NodeType": "spiescitygallerybeach",
+            "Uid": "map17nodea7"
+        },
+        "map17nodea8": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map17",
+            "NodeConnections": "map17nodea9",
+            "NodeType": "streamerboss",
+            "Uid": "map17nodea8"
+        },
+        "map17nodeb6": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map17",
+            "NodeConnections": "map17nodeb7",
+            "NodeType": "spiesmilitarybase",
+            "Uid": "map17nodeb6"
+        },
+        "map17nodeb7": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map17",
+            "NodeConnections": "map17nodeb8,map17nodec8",
+            "NodeType": "streamerboss",
+            "Uid": "map17nodeb7"
+        },
+        "map17nodec8": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map17",
+            "NodeConnections": "map17nodec9",
+            "NodeType": "spiescolumns",
+            "Uid": "map17nodec8"
+        },
+        "map18nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map18",
+            "NodeConnections": "",
+            "NodeType": "spiesarmored",
+            "Uid": "map18nodea10"
+        },
+        "map18nodea9": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map18",
+            "NodeConnections": "map18nodec9",
+            "NodeType": "spiescityfieldssnow",
+            "Uid": "map18nodea9"
+        },
+        "map18nodeb6": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map18",
+            "NodeConnections": "map18nodeb7,map18nodea6",
+            "NodeType": "streamerboss",
+            "Uid": "map18nodeb6"
+        },
+        "map18nodec10": {
+            "ChestType": "chestboss",
+            "MapId": "map18",
+            "NodeConnections": "",
+            "NodeType": "spiesranged",
+            "Uid": "map18nodec10"
+        },
+        "map18nodec6": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map18",
+            "NodeConnections": "map18nodec7,map18nodea8,map18nodeb7",
+            "NodeType": "streamerboss",
+            "Uid": "map18nodec6"
+        },
+        "map19nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map19",
+            "NodeConnections": "",
+            "NodeType": "spiesranged",
+            "Uid": "map19nodea10"
+        },
+        "map19nodeb6": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map19",
+            "NodeConnections": "map19nodeb7",
+            "NodeType": "streamerboss",
+            "Uid": "map19nodeb6"
+        },
+        "map19nodeb7": {
+            "ChestType": "chestboostedskin",
+            "MapId": "map19",
+            "NodeConnections": "map19nodeb8,map19nodea8",
+            "NodeType": "spiesmilitarybase",
+            "Uid": "map19nodeb7"
+        },
+        "map19nodec10": {
+            "ChestType": "chestboss",
+            "MapId": "map19",
+            "NodeConnections": "",
+            "NodeType": "spiesarmored",
+            "Uid": "map19nodec10"
+        },
+        "map19nodec5": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map19",
+            "NodeConnections": "map19nodec6",
+            "NodeType": "streamerboss",
+            "Uid": "map19nodec5"
+        },
+        "map19nodec6": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map19",
+            "NodeConnections": "map19nodec7",
+            "NodeType": "spiescitysquaressnow",
+            "Uid": "map19nodec6"
+        },
+        "map19nodecd1": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map19",
+            "NodeConnections": "map19nodec7",
+            "NodeType": "spiescaves",
+            "Uid": "map19nodecd1"
+        },
+        "map20nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map20",
+            "NodeConnections": "",
+            "NodeType": "spiesarmored",
+            "Uid": "map20nodea10"
+        },
+        "map20nodea5": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map20",
+            "NodeConnections": "map20nodea6,map20nodeb6",
+            "NodeType": "spiescitygalleryjungle",
+            "Uid": "map20nodea5"
+        },
+        "map20nodea6": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map20",
+            "NodeConnections": "map20nodea7,map20nodeb7",
+            "NodeType": "streamerboss",
+            "Uid": "map20nodea6"
+        },
+        "map20nodec10": {
+            "ChestType": "chestboss",
+            "MapId": "map20",
+            "NodeConnections": "",
+            "NodeType": "spiesranged",
+            "Uid": "map20nodec10"
+        },
+        "map20nodec6": {
+            "ChestType": "chestboostedskin",
+            "MapId": "map20",
+            "NodeConnections": "map20nodec7,map20nodea7",
+            "NodeType": "streamerboss",
+            "Uid": "map20nodec6"
+        },
+        "map21nodea5": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map21",
+            "NodeConnections": "map21nodea6,map21nodeb6",
+            "NodeType": "streamerboss",
+            "Uid": "map21nodea5"
+        },
+        "map21nodeb6": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map21",
+            "NodeConnections": "map21nodeb7",
+            "NodeType": "spiescolumns",
+            "Uid": "map21nodeb6"
+        },
+        "map21nodeb8": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map21",
+            "NodeConnections": "map21nodeb9",
+            "NodeType": "spiescitylakejungle",
+            "Uid": "map21nodeb8"
+        },
+        "map21nodec10": {
+            "ChestType": "chestboss",
+            "MapId": "map21",
+            "NodeConnections": "",
+            "NodeType": "spiesranged",
+            "Uid": "map21nodec10"
+        },
+        "map21nodec5": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map21",
+            "NodeConnections": "map21nodec6",
+            "NodeType": "streamerboss",
+            "Uid": "map21nodec5"
+        },
+        "map21nodec9": {
+            "ChestType": "chestboostedskin",
+            "MapId": "map21",
+            "NodeConnections": "map21nodec10",
+            "NodeType": "spiesmilitarylabs",
+            "Uid": "map21nodec9"
+        },
+        "map22nodea12": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map22",
+            "NodeConnections": "map22nodea13",
+            "NodeType": "streamerboss",
+            "Uid": "map22nodea12"
+        },
+        "map22nodea14": {
+            "ChestType": "chestbosssuper",
+            "MapId": "map22",
+            "NodeConnections": "",
+            "NodeType": "spiesthecamouflagebeast",
+            "Uid": "map22nodea14"
+        },
+        "map22nodeb4": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map22",
+            "NodeConnections": "map22nodeb5",
+            "NodeType": "spiesstorage",
+            "Uid": "map22nodeb4"
+        },
+        "map22nodeb7": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map22",
+            "NodeConnections": "map22nodea12",
+            "NodeType": "spiescitysafehousevolcano",
+            "Uid": "map22nodeb7"
+        },
+        "map23nodea8": {
+            "ChestType": "chestboss",
+            "MapId": "map23",
+            "NodeConnections": "",
+            "NodeType": "gravedeath",
+            "Uid": "map23nodea8"
+        },
+        "map23nodeb6": {
+            "ChestType": "chestboss",
+            "MapId": "map23",
+            "NodeConnections": "",
+            "NodeType": "ancientbonelord",
+            "Uid": "map23nodeb6"
+        },
+        "map24nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map24",
+            "NodeConnections": "",
+            "NodeType": "thepitt",
+            "Uid": "map24nodea10"
+        },
+        "map25nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map25",
+            "NodeConnections": "",
+            "NodeType": "ancientgoblin",
+            "Uid": "map25nodea10"
+        },
+        "map25nodec10": {
+            "ChestType": "chestboss",
+            "MapId": "map25",
+            "NodeConnections": "",
+            "NodeType": "thepitt",
+            "Uid": "map25nodec10"
+        },
+        "map26nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map26",
+            "NodeConnections": "",
+            "NodeType": "lichlair",
+            "Uid": "map26nodea10"
+        },
+        "map27nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map27",
+            "NodeConnections": "",
+            "NodeType": "ancientcombo",
+            "Uid": "map27nodea10"
+        },
+        "map27nodeb10": {
+            "ChestType": "chestboss",
+            "MapId": "map27",
+            "NodeConnections": "",
+            "NodeType": "dragonsnest",
+            "Uid": "map27nodeb10"
+        },
+        "map28nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map28",
+            "NodeConnections": "",
+            "NodeType": "thepitt",
+            "Uid": "map28nodea10"
+        },
+        "map29nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map29",
+            "NodeConnections": "",
+            "NodeType": "ancientalpha",
+            "Uid": "map29nodea10"
+        },
+        "map29nodec10": {
+            "ChestType": "chestboss",
+            "MapId": "map29",
+            "NodeConnections": "",
+            "NodeType": "lichlair",
+            "Uid": "map29nodec10"
+        },
+        "map30nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map30",
+            "NodeConnections": "",
+            "NodeType": "ancientritual",
+            "Uid": "map30nodea10"
+        },
+        "map30nodec10": {
+            "ChestType": "chestboss",
+            "MapId": "map30",
+            "NodeConnections": "",
+            "NodeType": "dragonsnest",
+            "Uid": "map30nodec10"
+        },
+        "map31nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map31",
+            "NodeConnections": "",
+            "NodeType": "ancientstronghold",
+            "Uid": "map31nodea10"
+        },
+        "map31nodec10": {
+            "ChestType": "chestboss",
+            "MapId": "map31",
+            "NodeConnections": "",
+            "NodeType": "dragonsnest",
+            "Uid": "map31nodec10"
+        },
+        "map33nodea3": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map33",
+            "NodeConnections": "map33nodea4",
+            "NodeType": "retroforest",
+            "Uid": "map33nodea3"
+        },
+        "map33nodea8": {
+            "ChestType": "chestboss",
+            "MapId": "map33",
+            "NodeConnections": "",
+            "NodeType": "retrovariety",
+            "Uid": "map33nodea8"
+        },
+        "map33nodeb6": {
+            "ChestType": "chestboss",
+            "MapId": "map33",
+            "NodeConnections": "",
+            "NodeType": "retrominiboss",
+            "Uid": "map33nodeb6"
+        },
+        "map33noded1": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map33",
+            "NodeConnections": "map33nodec5",
+            "NodeType": "retrotown",
+            "Uid": "map33noded1"
+        },
+        "map34nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map34",
+            "NodeConnections": "",
+            "NodeType": "retrominiboss",
+            "Uid": "map34nodea10"
+        },
+        "map34nodeb5": {
+            "ChestType": "chestboostedskinalternate",
+            "MapId": "map34",
+            "NodeConnections": "map34nodeb6,map34nodea5",
+            "NodeType": "retroforest",
+            "Uid": "map34nodeb5"
+        },
+        "map34nodeb7": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map34",
+            "NodeConnections": "map34nodeb8,map34nodea8",
+            "NodeType": "streamerboss",
+            "Uid": "map34nodeb7"
+        },
+        "map34nodec6": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map34",
+            "NodeConnections": "map34nodec7",
+            "NodeType": "retroriver",
+            "Uid": "map34nodec6"
+        },
+        "map35nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map35",
+            "NodeConnections": "",
+            "NodeType": "retroboss",
+            "Uid": "map35nodea10"
+        },
+        "map35nodea7": {
+            "ChestType": "chestboostedskinalternate",
+            "MapId": "map35",
+            "NodeConnections": "map35nodea8",
+            "NodeType": "retroriver",
+            "Uid": "map35nodea7"
+        },
+        "map35nodeb8": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map35",
+            "NodeConnections": "map35nodeb9,map35nodea9",
+            "NodeType": "streamerboss",
+            "Uid": "map35nodeb8"
+        },
+        "map35nodec10": {
+            "ChestType": "chestboss",
+            "MapId": "map35",
+            "NodeConnections": "",
+            "NodeType": "retrovariety",
+            "Uid": "map35nodec10"
+        },
+        "map35nodec3": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map35",
+            "NodeConnections": "map35nodec4",
+            "NodeType": "retrocity",
+            "Uid": "map35nodec3"
+        },
+        "map36nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map36",
+            "NodeConnections": "",
+            "NodeType": "retrovariety",
+            "Uid": "map36nodea10"
+        },
+        "map36nodeb6": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map36",
+            "NodeConnections": "map36nodeb7,map36nodea7",
+            "NodeType": "streamerboss",
+            "Uid": "map36nodeb6"
+        },
+        "map36nodeb7": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map36",
+            "NodeConnections": "map36nodeb8",
+            "NodeType": "retroriver",
+            "Uid": "map36nodeb7"
+        },
+        "map36nodec6": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map36",
+            "NodeConnections": "map36nodec7",
+            "NodeType": "retrotown",
+            "Uid": "map36nodec6"
+        },
+        "map37nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map37",
+            "NodeConnections": "",
+            "NodeType": "retrominiboss",
+            "Uid": "map37nodea10"
+        },
+        "map37nodea7": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map37",
+            "NodeConnections": "map37nodea8",
+            "NodeType": "retrocity",
+            "Uid": "map37nodea7"
+        },
+        "map37nodeb10": {
+            "ChestType": "chestboss",
+            "MapId": "map37",
+            "NodeConnections": "",
+            "NodeType": "retrovariety",
+            "Uid": "map37nodeb10"
+        },
+        "map37nodeb6": {
+            "ChestType": "chestboostedskinalternate",
+            "MapId": "map37",
+            "NodeConnections": "map37nodeb7",
+            "NodeType": "retrofactory",
+            "Uid": "map37nodeb6"
+        },
+        "map37nodec8": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map37",
+            "NodeConnections": "map37nodeb9,map37nodea9",
+            "NodeType": "retroforest",
+            "Uid": "map37nodec8"
+        },
+        "map38nodea10": {
+            "ChestType": "chestbosssuper",
+            "MapId": "map38",
+            "NodeConnections": "",
+            "NodeType": "retroboss",
+            "Uid": "map38nodea10"
+        },
+        "map38nodea7": {
+            "ChestType": "chestboostedskinalternate",
+            "MapId": "map38",
+            "NodeConnections": "map38nodea8",
+            "NodeType": "retrotown",
+            "Uid": "map38nodea7"
+        },
+        "map38nodeb6": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map38",
+            "NodeConnections": "map38nodeb7",
+            "NodeType": "retrocity",
+            "Uid": "map38nodeb6"
+        },
+        "map38nodec5": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map38",
+            "NodeConnections": "map38nodeb7,map38nodec7",
+            "NodeType": "retroriver",
+            "Uid": "map38nodec5"
+        },
+        "map38nodec6": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map38",
+            "NodeConnections": "map38nodec7",
+            "NodeType": "retromystery",
+            "Uid": "map38nodec6"
+        },
+        "map39nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map39",
+            "NodeConnections": "",
+            "NodeType": "mobovariety",
+            "Uid": "map39nodea10"
+        },
+        "map39nodea9": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map39",
+            "NodeConnections": "map39nodec9",
+            "NodeType": "mobopsu",
+            "Uid": "map39nodea9"
+        },
+        "map39nodeb7": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map39",
+            "NodeConnections": "map39nodeb8",
+            "NodeType": "streamerboss",
+            "Uid": "map39nodeb7"
+        },
+        "map39nodec10": {
+            "ChestType": "chestboss",
+            "MapId": "map39",
+            "NodeConnections": "",
+            "NodeType": "mobominiboss",
+            "Uid": "map39nodec10"
+        },
+        "map40nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map40",
+            "NodeConnections": "",
+            "NodeType": "mobovariety",
+            "Uid": "map40nodea10"
+        },
+        "map40nodeb5": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map40",
+            "NodeConnections": "map40nodeb6",
+            "NodeType": "mobovariety",
+            "Uid": "map40nodeb5"
+        },
+        "map40nodeb7": {
+            "ChestType": "chestboostedskinalternate",
+            "MapId": "map40",
+            "NodeConnections": "map40nodeb8,map40nodea8",
+            "NodeType": "streamerboss",
+            "Uid": "map40nodeb7"
+        },
+        "map40nodec10": {
+            "ChestType": "chestboss",
+            "MapId": "map40",
+            "NodeConnections": "",
+            "NodeType": "mobominiboss",
+            "Uid": "map40nodec10"
+        },
+        "map40nodec6": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map40",
+            "NodeConnections": "map40nodec7",
+            "NodeType": "moboatx",
+            "Uid": "map40nodec6"
+        },
+        "map40nodecd1": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map40",
+            "NodeConnections": "map40nodec7",
+            "NodeType": "moboohm",
+            "Uid": "map40nodecd1"
+        },
+        "map41nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map41",
+            "NodeConnections": "",
+            "NodeType": "mobominiboss",
+            "Uid": "map41nodea10"
+        },
+        "map41nodea5": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map41",
+            "NodeConnections": "map41nodea6,map41nodeb6",
+            "NodeType": "mobomystery",
+            "Uid": "map41nodea5"
+        },
+        "map41nodea8": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map41",
+            "NodeConnections": "map41nodea9",
+            "NodeType": "streamerboss",
+            "Uid": "map41nodea8"
+        },
+        "map41nodec10": {
+            "ChestType": "chestboss",
+            "MapId": "map41",
+            "NodeConnections": "",
+            "NodeType": "retrovariety",
+            "Uid": "map41nodec10"
+        },
+        "map41nodec6": {
+            "ChestType": "chestboostedskinalternate",
+            "MapId": "map41",
+            "NodeConnections": "map41nodec7,map41nodea7",
+            "NodeType": "mobomystery",
+            "Uid": "map41nodec6"
+        },
+        "map42nodea7": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map42",
+            "NodeConnections": "map42nodea8,map42nodec9",
+            "NodeType": "streamerboss",
+            "Uid": "map42nodea7"
+        },
+        "map42nodeb8": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map42",
+            "NodeConnections": "map42nodeb9",
+            "NodeType": "mobocore",
+            "Uid": "map42nodeb8"
+        },
+        "map42nodec10": {
+            "ChestType": "chestboss",
+            "MapId": "map42",
+            "NodeConnections": "",
+            "NodeType": "mobominiboss",
+            "Uid": "map42nodec10"
+        },
+        "map42nodec8": {
+            "ChestType": "chestboostedskinalternate",
+            "MapId": "map42",
+            "NodeConnections": "map42nodec9,map42nodecd2",
+            "NodeType": "moboohm",
+            "Uid": "map42nodec8"
+        },
+        "map43nodea10": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map43",
+            "NodeConnections": "map43nodea11,map43nodeb6",
+            "NodeType": "mobomystery",
+            "Uid": "map43nodea10"
+        },
+        "map43nodea11": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map43",
+            "NodeConnections": "map43nodea12",
+            "NodeType": "mobovariety",
+            "Uid": "map43nodea11"
+        },
+        "map43nodea14": {
+            "ChestType": "chestbosssuper",
+            "MapId": "map43",
+            "NodeConnections": "",
+            "NodeType": "moboboss",
+            "Uid": "map43nodea14"
+        },
+        "map43nodea6": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map43",
+            "NodeConnections": "map43nodea7",
+            "NodeType": "mobocore",
+            "Uid": "map43nodea6"
+        },
+        "map43nodeb4": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map43",
+            "NodeConnections": "map43nodeb5",
+            "NodeType": "mobocore",
+            "Uid": "map43nodeb4"
+        },
+        "map43nodeb7": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map43",
+            "NodeConnections": "map43nodea12",
+            "NodeType": "moboatx",
+            "Uid": "map43nodeb7"
+        },
+        "map44nodea3": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map44",
+            "NodeConnections": "map44nodea4",
+            "NodeType": "jungle2lake",
+            "Uid": "map44nodea3"
+        },
+        "map44nodea8": {
+            "ChestType": "chestboss",
+            "MapId": "map44",
+            "NodeConnections": "",
+            "NodeType": "elementallightningboss",
+            "Uid": "map44nodea8"
+        },
+        "map44nodeb6": {
+            "ChestType": "chestboss",
+            "MapId": "map44",
+            "NodeConnections": "",
+            "NodeType": "elementallightningboss",
+            "Uid": "map44nodeb6"
+        },
+        "map44nodec2": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map44",
+            "NodeConnections": "map44nodec3,map44noded1",
+            "NodeType": "jungle2flank",
+            "Uid": "map44nodec2"
+        },
+        "map44nodec4": {
+            "ChestType": "chestboostedskinalternate",
+            "MapId": "map44",
+            "NodeConnections": "map44nodec5",
+            "NodeType": "jungle2lake",
+            "Uid": "map44nodec4"
+        },
+        "map45nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map45",
+            "NodeConnections": "",
+            "NodeType": "elementallightningboss",
+            "Uid": "map45nodea10"
+        },
+        "map45nodea5": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map45",
+            "NodeConnections": "map45nodea6",
+            "NodeType": "jungle2enclosure",
+            "Uid": "map45nodea5"
+        },
+        "map45nodeb7": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map45",
+            "NodeConnections": "map45nodeb8,map45nodea8",
+            "NodeType": "streamerboss",
+            "Uid": "map45nodeb7"
+        },
+        "map45nodeb8": {
+            "ChestType": "chestboostedskinalternate",
+            "MapId": "map45",
+            "NodeConnections": "map45nodeb9,map45nodec7",
+            "NodeType": "jungle2lake",
+            "Uid": "map45nodeb8"
+        },
+        "map45nodec5": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map45",
+            "NodeConnections": "map45nodec6",
+            "NodeType": "jungle2ambush",
+            "Uid": "map45nodec5"
+        },
+        "map46nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map46",
+            "NodeConnections": "",
+            "NodeType": "elementallightningboss",
+            "Uid": "map46nodea10"
+        },
+        "map46nodea5": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map46",
+            "NodeConnections": "map46nodea6,map46nodeb6",
+            "NodeType": "jungle2arena",
+            "Uid": "map46nodea5"
+        },
+        "map46nodeb5": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map46",
+            "NodeConnections": "map46nodea5",
+            "NodeType": "jungle2flank",
+            "Uid": "map46nodeb5"
+        },
+        "map46nodeb8": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map46",
+            "NodeConnections": "map46nodeb9,map46nodea9",
+            "NodeType": "streamerboss",
+            "Uid": "map46nodeb8"
+        },
+        "map46nodec10": {
+            "ChestType": "chestboss",
+            "MapId": "map46",
+            "NodeConnections": "",
+            "NodeType": "elementallightningboss",
+            "Uid": "map46nodec10"
+        },
+        "map47nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map47",
+            "NodeConnections": "",
+            "NodeType": "elementallightningboss",
+            "Uid": "map47nodea10"
+        },
+        "map47nodea6": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map47",
+            "NodeConnections": "map47nodea7",
+            "NodeType": "jungle2arena",
+            "Uid": "map47nodea6"
+        },
+        "map47nodeb5": {
+            "ChestType": "chestboostedskinalternate",
+            "MapId": "map47",
+            "NodeConnections": "map47nodeb6",
+            "NodeType": "jungle2ambush",
+            "Uid": "map47nodeb5"
+        },
+        "map47nodeb7": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map47",
+            "NodeConnections": "map47nodeb8",
+            "NodeType": "streamerboss",
+            "Uid": "map47nodeb7"
+        },
+        "map48nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map48",
+            "NodeConnections": "",
+            "NodeType": "elementallightningboss",
+            "Uid": "map48nodea10"
+        },
+        "map48nodea5": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map48",
+            "NodeConnections": "map48nodea6,map48nodec9",
+            "NodeType": "jungle2junglemystery",
+            "Uid": "map48nodea5"
+        },
+        "map48nodeb10": {
+            "ChestType": "chestboss",
+            "MapId": "map48",
+            "NodeConnections": "",
+            "NodeType": "elementallightningboss",
+            "Uid": "map48nodeb10"
+        },
+        "map48nodeb6": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map48",
+            "NodeConnections": "map48nodeb7",
+            "NodeType": "jungle2ambush",
+            "Uid": "map48nodeb6"
+        },
+        "map48nodec5": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map48",
+            "NodeConnections": "map48nodec6,map48nodeb7",
+            "NodeType": "streamerboss",
+            "Uid": "map48nodec5"
+        },
+        "map48nodec8": {
+            "ChestType": "chestboostedskinalternate",
+            "MapId": "map48",
+            "NodeConnections": "map48nodeb9,map48nodea9",
+            "NodeType": "jungle2enclosure",
+            "Uid": "map48nodec8"
+        },
+        "map48nodec9": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map48",
+            "NodeConnections": "map48nodea8,map48nodec7",
+            "NodeType": "streamerboss",
+            "Uid": "map48nodec9"
+        },
+        "map49nodea10": {
+            "ChestType": "chestbosssuper",
+            "MapId": "map49",
+            "NodeConnections": "",
+            "NodeType": "elementallightningboss",
+            "Uid": "map49nodea10"
+        },
+        "map49nodea5": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map49",
+            "NodeConnections": "map49nodea6,map49nodec6",
+            "NodeType": "jungle2junglemystery",
+            "Uid": "map49nodea5"
+        },
+        "map49nodeb6": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map49",
+            "NodeConnections": "map49nodeb7",
+            "NodeType": "jungle2arena",
+            "Uid": "map49nodeb6"
+        },
+        "map49nodec8": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map49",
+            "NodeConnections": "map49nodec9",
+            "NodeType": "streamerboss",
+            "Uid": "map49nodec8"
+        },
+        "map50nodea5": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map50",
+            "NodeConnections": "map50nodea6",
+            "NodeType": "jungle2front",
+            "Uid": "map50nodea5"
+        },
+        "map50nodealt4": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map50",
+            "NodeConnections": "map50nodeenda",
+            "NodeType": "jungle2breakout",
+            "Uid": "map50nodealt4"
+        },
+        "map50nodeb7": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map50",
+            "NodeConnections": "map50nodeb8",
+            "NodeType": "streamerboss",
+            "Uid": "map50nodeb7"
+        },
+        "map50nodeb8": {
+            "ChestType": "chestboostedskinalternate",
+            "MapId": "map50",
+            "NodeConnections": "map50nodeendbc",
+            "NodeType": "jungle2bush",
+            "Uid": "map50nodeb8"
+        },
+        "map50nodec6": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map50",
+            "NodeConnections": "map50nodec7",
+            "NodeType": "jungle2trap",
+            "Uid": "map50nodec6"
+        },
+        "map50nodeenda": {
+            "ChestType": "chestboss",
+            "MapId": "map50",
+            "NodeConnections": "",
+            "NodeType": "elementallightningboss",
+            "Uid": "map50nodeenda"
+        },
+        "map50nodeendbc": {
+            "ChestType": "chestboss",
+            "MapId": "map50",
+            "NodeConnections": "",
+            "NodeType": "elementallightningboss",
+            "Uid": "map50nodeendbc"
+        },
+        "map51nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map51",
+            "NodeConnections": "",
+            "NodeType": "elementallightningboss",
+            "Uid": "map51nodea10"
+        },
+        "map51nodea5": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map51",
+            "NodeConnections": "map51nodea6,map51nodeb6",
+            "NodeType": "jungle2junglemystery",
+            "Uid": "map51nodea5"
+        },
+        "map51nodeb7": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map51",
+            "NodeConnections": "map51nodeb8,map51nodea8",
+            "NodeType": "streamerboss",
+            "Uid": "map51nodeb7"
+        },
+        "map51nodec10": {
+            "ChestType": "chestboss",
+            "MapId": "map51",
+            "NodeConnections": "",
+            "NodeType": "elementallightningboss",
+            "Uid": "map51nodec10"
+        },
+        "map51nodec7": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map51",
+            "NodeConnections": "map51nodec8",
+            "NodeType": "streamerboss",
+            "Uid": "map51nodec7"
+        },
+        "map52nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map52",
+            "NodeConnections": "",
+            "NodeType": "elementallightningboss",
+            "Uid": "map52nodea10"
+        },
+        "map52nodea6": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map52",
+            "NodeConnections": "map52nodea7,map52nodeb7",
+            "NodeType": "jungle2hunter",
+            "Uid": "map52nodea6"
+        },
+        "map52nodea7": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map52",
+            "NodeConnections": "map52nodea8",
+            "NodeType": "streamerboss",
+            "Uid": "map52nodea7"
+        },
+        "map52nodeb10": {
+            "ChestType": "chestboss",
+            "MapId": "map52",
+            "NodeConnections": "",
+            "NodeType": "elementallightningboss",
+            "Uid": "map52nodeb10"
+        },
+        "map52nodeb9": {
+            "ChestType": "chestboostedskinalternate",
+            "MapId": "map52",
+            "NodeConnections": "map52nodeb10",
+            "NodeType": "jungle2front",
+            "Uid": "map52nodeb9"
+        },
+        "map52nodec6": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map52",
+            "NodeConnections": "map52nodec7,map52nodeb8",
+            "NodeType": "streamerboss",
+            "Uid": "map52nodec6"
+        },
+        "map52nodecalt3": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map52",
+            "NodeConnections": "map52nodea10",
+            "NodeType": "jungle2bush",
+            "Uid": "map52nodecalt3"
+        },
+        "map53nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map53",
+            "NodeConnections": "",
+            "NodeType": "elementallightningboss",
+            "Uid": "map53nodea10"
+        },
+        "map53nodeb6": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map53",
+            "NodeConnections": "map53nodeb7,map53nodea6",
+            "NodeType": "streamerboss",
+            "Uid": "map53nodeb6"
+        },
+        "map53nodeb8": {
+            "ChestType": "chestboostedskinalternate",
+            "MapId": "map53",
+            "NodeConnections": "map53nodeb9",
+            "NodeType": "jungle2breakout",
+            "Uid": "map53nodeb8"
+        },
+        "map53nodec10": {
+            "ChestType": "chestboss",
+            "MapId": "map53",
+            "NodeConnections": "",
+            "NodeType": "elementallightningboss",
+            "Uid": "map53nodec10"
+        },
+        "map53nodec6": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "map53",
+            "NodeConnections": "map53nodeb7,map53nodec7,map53nodea8",
+            "NodeType": "streamerboss",
+            "Uid": "map53nodec6"
+        },
+        "map54nodea11": {
+            "ChestType": "chestboostedskinalternate",
+            "MapId": "map54",
+            "NodeConnections": "map54nodea12",
+            "NodeType": "jungle2junglemystery",
+            "Uid": "map54nodea11"
+        },
+        "map54nodea5": {
+            "ChestType": "chestboostedskinalternate",
+            "MapId": "map54",
+            "NodeConnections": "map54nodea6",
+            "NodeType": "streamerboss",
+            "Uid": "map54nodea5"
+        },
+        "map54nodeend": {
+            "ChestType": "chestbosssuper",
+            "MapId": "map54",
+            "NodeConnections": "",
+            "NodeType": "elementallightningboss",
+            "Uid": "map54nodeend"
+        },
+        "map56nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map56",
+            "NodeConnections": "",
+            "NodeType": "beastlandsbugminiboss",
+            "Uid": "map56nodea10"
+        },
+        "map56nodeb8": {
+            "ChestType": "chestboostedbeastlands",
+            "MapId": "map56",
+            "NodeConnections": "map56nodeb9",
+            "NodeType": "beastlandsbug03",
+            "Uid": "map56nodeb8"
+        },
+        "map56nodec4": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map56",
+            "NodeConnections": "map56nodec6,map56nodec5",
+            "NodeType": "beastlandsbeast02",
+            "Uid": "map56nodec4"
+        },
+        "map56nodec5": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map56",
+            "NodeConnections": "map56nodeb7,map56nodec7",
+            "NodeType": "beastlandsbug01",
+            "Uid": "map56nodec5"
+        },
+        "map56nodec6": {
+            "ChestType": "chestboostedbeastlands",
+            "MapId": "map56",
+            "NodeConnections": "map56nodec7",
+            "NodeType": "beastlandsbeast03",
+            "Uid": "map56nodec6"
+        },
+        "map56nodec9": {
+            "ChestType": "chestboss",
+            "MapId": "map56",
+            "NodeConnections": "",
+            "NodeType": "beastlandsbeastminiboss",
+            "Uid": "map56nodec9"
+        },
+        "map57nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map57",
+            "NodeConnections": "",
+            "NodeType": "beastlandsbeastminiboss",
+            "Uid": "map57nodea10"
+        },
+        "map57nodeb7": {
+            "ChestType": "chestboostedbeastlands",
+            "MapId": "map57",
+            "NodeConnections": "map57nodeb8,map57nodea8",
+            "NodeType": "beastlandsbeast06",
+            "Uid": "map57nodeb7"
+        },
+        "map57nodeb8": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map57",
+            "NodeConnections": "map57nodea10,map57nodecd2",
+            "NodeType": "beastlandsbeast01",
+            "Uid": "map57nodeb8"
+        },
+        "map57nodec10": {
+            "ChestType": "chestboss",
+            "MapId": "map57",
+            "NodeConnections": "",
+            "NodeType": "beastlandsbugminiboss",
+            "Uid": "map57nodec10"
+        },
+        "map57nodec9": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map57",
+            "NodeConnections": "map57nodeb9",
+            "NodeType": "beastlandsbug06",
+            "Uid": "map57nodec9"
+        },
+        "map57nodecd2": {
+            "ChestType": "chestboostedbeastlands",
+            "MapId": "map57",
+            "NodeConnections": "map57nodec10",
+            "NodeType": "beastlandsbug03",
+            "Uid": "map57nodecd2"
+        },
+        "map58nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map58",
+            "NodeConnections": "",
+            "NodeType": "beastlandsbugminiboss",
+            "Uid": "map58nodea10"
+        },
+        "map58nodeb4": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map58",
+            "NodeConnections": "map58nodeb5,map58nodec5",
+            "NodeType": "beastlandsbug04",
+            "Uid": "map58nodeb4"
+        },
+        "map58nodec5": {
+            "ChestType": "chestboostedbeastlands",
+            "MapId": "map58",
+            "NodeConnections": "map58nodeb7,map58nodec7",
+            "NodeType": "beastlandsbug06",
+            "Uid": "map58nodec5"
+        },
+        "map58nodec6": {
+            "ChestType": "chestboostedbeastlands",
+            "MapId": "map58",
+            "NodeConnections": "map58nodec7",
+            "NodeType": "beastlandsbeast06",
+            "Uid": "map58nodec6"
+        },
+        "map58nodec7": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map58",
+            "NodeConnections": "map58nodec8,map58nodea8",
+            "NodeType": "beastlandsbeast01",
+            "Uid": "map58nodec7"
+        },
+        "map58nodec9": {
+            "ChestType": "chestboss",
+            "MapId": "map58",
+            "NodeConnections": "",
+            "NodeType": "beastlandsbeastminiboss",
+            "Uid": "map58nodec9"
+        },
+        "map59nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map59",
+            "NodeConnections": "",
+            "NodeType": "beastlandsbeastminiboss",
+            "Uid": "map59nodea10"
+        },
+        "map59nodeb8": {
+            "ChestType": "chestboostedbeastlands",
+            "MapId": "map59",
+            "NodeConnections": "map59nodeb9",
+            "NodeType": "beastlandsbeast01",
+            "Uid": "map59nodeb8"
+        },
+        "map59nodeb9": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map59",
+            "NodeConnections": "map59nodea10,map59nodec9",
+            "NodeType": "beastlandsbeast02",
+            "Uid": "map59nodeb9"
+        },
+        "map59nodec10": {
+            "ChestType": "chestboss",
+            "MapId": "map59",
+            "NodeConnections": "",
+            "NodeType": "beastlandsbugminiboss",
+            "Uid": "map59nodec10"
+        },
+        "map59nodec4": {
+            "ChestType": "chestboostedbeastlands",
+            "MapId": "map59",
+            "NodeConnections": "map59nodec5",
+            "NodeType": "beastlandsbug01",
+            "Uid": "map59nodec4"
+        },
+        "map59nodec9": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map59",
+            "NodeConnections": "map59nodec10",
+            "NodeType": "beastlandsbug06",
+            "Uid": "map59nodec9"
+        },
+        "map60nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map60",
+            "NodeConnections": "",
+            "NodeType": "marbletoastymorbiezab1",
+            "Uid": "map60nodea10"
+        },
+        "map60nodea7": {
+            "ChestType": "chestboostedskin",
+            "MapId": "map60",
+            "NodeConnections": "map60nodea8",
+            "NodeType": "marbletoastyisland1",
+            "Uid": "map60nodea7"
+        },
+        "map60nodec10": {
+            "ChestType": "chestboss",
+            "MapId": "map60",
+            "NodeConnections": "",
+            "NodeType": "marbletoastymorbiezab1",
+            "Uid": "map60nodec10"
+        },
+        "map60nodec3": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map60",
+            "NodeConnections": "map60nodec4",
+            "NodeType": "marbletoastyspringhoriz1",
+            "Uid": "map60nodec3"
+        },
+        "map61nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map61",
+            "NodeConnections": "",
+            "NodeType": "marbletoastymorbieboss2",
+            "Uid": "map61nodea10"
+        },
+        "map61nodeb6": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map61",
+            "NodeConnections": "map61nodeb7,map61nodea7",
+            "NodeType": "marbletoastyplainhoriz2",
+            "Uid": "map61nodeb6"
+        },
+        "map61nodeb8": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map61",
+            "NodeConnections": "map61nodeb9,map61nodea8",
+            "NodeType": "marbletoastypuddle2",
+            "Uid": "map61nodeb8"
+        },
+        "map61nodec6": {
+            "ChestType": "chestboostedskin",
+            "MapId": "map61",
+            "NodeConnections": "map61nodec7",
+            "NodeType": "marbletoastypuddle2",
+            "Uid": "map61nodec6"
+        },
+        "map62nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map62",
+            "NodeConnections": "",
+            "NodeType": "marbleradiomorbie3",
+            "Uid": "map62nodea10"
+        },
+        "map62nodea7": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map62",
+            "NodeConnections": "map62nodea8",
+            "NodeType": "marbleradiocirclejum",
+            "Uid": "map62nodea7"
+        },
+        "map62nodeb10": {
+            "ChestType": "chestboss",
+            "MapId": "map62",
+            "NodeConnections": "",
+            "NodeType": "marbleradiomorbie3",
+            "Uid": "map62nodeb10"
+        },
+        "map62nodeb6": {
+            "ChestType": "chestboostedskin",
+            "MapId": "map62",
+            "NodeConnections": "map62nodeb7",
+            "NodeType": "marbleradiocorridorjum",
+            "Uid": "map62nodeb6"
+        },
+        "map63nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map63",
+            "NodeConnections": "",
+            "NodeType": "marbleradiomorbiebwa3",
+            "Uid": "map63nodea10"
+        },
+        "map63nodea7": {
+            "ChestType": "chestboostedskin",
+            "MapId": "map63",
+            "NodeConnections": "map63nodea8",
+            "NodeType": "marbleradiogarden3",
+            "Uid": "map63nodea7"
+        },
+        "map63nodeb6": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map63",
+            "NodeConnections": "map63nodeb7",
+            "NodeType": "marbleradiocircle3",
+            "Uid": "map63nodeb6"
+        },
+        "map63nodec4": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map63",
+            "NodeConnections": "map63nodec6",
+            "NodeType": "marbleradioriver3",
+            "Uid": "map63nodec4"
+        },
+        "map64nodea10": {
+            "ChestType": "chestbosssuper",
+            "MapId": "map64",
+            "NodeConnections": "",
+            "NodeType": "marbleradiomorbie4",
+            "Uid": "map64nodea10"
+        },
+        "map64nodea9": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map64",
+            "NodeConnections": "map64nodec9",
+            "NodeType": "marbleradiocorridor4",
+            "Uid": "map64nodea9"
+        },
+        "map64nodec10": {
+            "ChestType": "chestbosssuper",
+            "MapId": "map64",
+            "NodeConnections": "",
+            "NodeType": "marbleradiomorbie4",
+            "Uid": "map64nodec10"
+        },
+        "map64nodec8": {
+            "ChestType": "chestboostedskin",
+            "MapId": "map64",
+            "NodeConnections": "map64nodec9",
+            "NodeType": "marbleradiopillar4",
+            "Uid": "map64nodec8"
+        },
+        "map65nodea9": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map65",
+            "NodeConnections": "map65nodec10",
+            "NodeType": "marbleicepuddle5",
+            "Uid": "map65nodea9"
+        },
+        "map65nodeb8": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map65",
+            "NodeConnections": "map65nodeb9",
+            "NodeType": "marbleiceriver5",
+            "Uid": "map65nodeb8"
+        },
+        "map65nodec10": {
+            "ChestType": "chestboss",
+            "MapId": "map65",
+            "NodeConnections": "",
+            "NodeType": "marbleicemorbie5",
+            "Uid": "map65nodec10"
+        },
+        "map65nodec8": {
+            "ChestType": "chestboostedskin",
+            "MapId": "map65",
+            "NodeConnections": "map65nodec9,map65nodecd2",
+            "NodeType": "marbleiceriver5",
+            "Uid": "map65nodec8"
+        },
+        "map66nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map66",
+            "NodeConnections": "",
+            "NodeType": "marbleicemorbieboh5",
+            "Uid": "map66nodea10"
+        },
+        "map66nodea6": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map66",
+            "NodeConnections": "map66nodea7",
+            "NodeType": "marbleicecentericehoriz5",
+            "Uid": "map66nodea6"
+        },
+        "map66nodeb3": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map66",
+            "NodeConnections": "map66nodeb4,map66nodea4",
+            "NodeType": "marbleiceriver5",
+            "Uid": "map66nodeb3"
+        },
+        "map66nodec10": {
+            "ChestType": "chestboss",
+            "MapId": "map66",
+            "NodeConnections": "",
+            "NodeType": "marbleicemorbieboh5",
+            "Uid": "map66nodec10"
+        },
+        "map66nodec8": {
+            "ChestType": "chestboostedskin",
+            "MapId": "map66",
+            "NodeConnections": "map66nodec9",
+            "NodeType": "marbleicepuddle5",
+            "Uid": "map66nodec8"
+        },
+        "map67nodea10": {
+            "ChestType": "chestbosssuper",
+            "MapId": "map67",
+            "NodeConnections": "",
+            "NodeType": "marbleicemorbie6",
+            "Uid": "map67nodea10"
+        },
+        "map67nodea5": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map67",
+            "NodeConnections": "map67nodea6,map67nodeb6",
+            "NodeType": "marbleiceriver6",
+            "Uid": "map67nodea5"
+        },
+        "map67nodea9": {
+            "ChestType": "chestboostedskin",
+            "MapId": "map67",
+            "NodeConnections": "map67nodea10",
+            "NodeType": "marbleicecentericehoriz6",
+            "Uid": "map67nodea9"
+        },
+        "map67nodec3": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map67",
+            "NodeConnections": "map67nodec4,map67nodeb3",
+            "NodeType": "marbleicecentericeboh",
+            "Uid": "map67nodec3"
+        },
+        "map68nodea10": {
+            "ChestType": "chestbosssuper",
+            "MapId": "map68",
+            "NodeConnections": "",
+            "NodeType": "marblesandmorbie7",
+            "Uid": "map68nodea10"
+        },
+        "map68nodea3": {
+            "ChestType": "chestboss",
+            "MapId": "map68",
+            "NodeConnections": "map68nodea4,map68nodec3",
+            "NodeType": "marblesandmorbie6",
+            "Uid": "map68nodea3"
+        },
+        "map68nodea6": {
+            "ChestType": "chestboss",
+            "MapId": "map68",
+            "NodeConnections": "map68nodea7",
+            "NodeType": "marblesandboss6",
+            "Uid": "map68nodea6"
+        },
+        "map68nodea9": {
+            "ChestType": "chestboostedskin",
+            "MapId": "map68",
+            "NodeConnections": "map68nodea10",
+            "NodeType": "marblesandoasis6",
+            "Uid": "map68nodea9"
+        },
+        "map68nodeb10": {
+            "ChestType": "chestbosssuper",
+            "MapId": "map68",
+            "NodeConnections": "",
+            "NodeType": "marblesandmorbie7",
+            "Uid": "map68nodeb10"
+        },
+        "map68nodeb3": {
+            "ChestType": "chestboss",
+            "MapId": "map68",
+            "NodeConnections": "map68nodeb4",
+            "NodeType": "marblesandmorbie6",
+            "Uid": "map68nodeb3"
+        },
+        "map68nodeb6": {
+            "ChestType": "chestboss",
+            "MapId": "map68",
+            "NodeConnections": "map68nodeb7",
+            "NodeType": "marblesandboss6",
+            "Uid": "map68nodeb6"
+        },
+        "map68nodec2": {
+            "ChestType": "chestboss",
+            "MapId": "map68",
+            "NodeConnections": "map68nodec3,map68nodeb4",
+            "NodeType": "marblesandmorbie6",
+            "Uid": "map68nodec2"
+        },
+        "map68nodec5": {
+            "ChestType": "chestboss",
+            "MapId": "map68",
+            "NodeConnections": "map68nodec6,map68nodeb7",
+            "NodeType": "marblesandboss6",
+            "Uid": "map68nodec5"
+        },
+        "map68nodec7": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map68",
+            "NodeConnections": "map68nodec8",
+            "NodeType": "marblesandpath6",
+            "Uid": "map68nodec7"
+        },
+        "map68nodec9": {
+            "ChestType": "chestboss",
+            "MapId": "map68",
+            "NodeConnections": "map68nodea8,map68nodec7",
+            "NodeType": "marblesandboss6",
+            "Uid": "map68nodec9"
+        },
+        "map69nodea10": {
+            "ChestType": "chestbosssuper",
+            "MapId": "map69",
+            "NodeConnections": "",
+            "NodeType": "marblesandboss8",
+            "Uid": "map69nodea10"
+        },
+        "map69nodea3": {
+            "ChestType": "chestboss",
+            "MapId": "map69",
+            "NodeConnections": "map69nodea4",
+            "NodeType": "marblesandboss7",
+            "Uid": "map69nodea3"
+        },
+        "map69nodea6": {
+            "ChestType": "chestboss",
+            "MapId": "map69",
+            "NodeConnections": "map69nodea7",
+            "NodeType": "marblesandmorbie8",
+            "Uid": "map69nodea6"
+        },
+        "map69nodeb3": {
+            "ChestType": "chestboss",
+            "MapId": "map69",
+            "NodeConnections": "map69nodeb4,map69nodea4",
+            "NodeType": "marblesandboss7",
+            "Uid": "map69nodeb3"
+        },
+        "map69nodeb6": {
+            "ChestType": "chestboss",
+            "MapId": "map69",
+            "NodeConnections": "map69nodeb7,map69nodea7",
+            "NodeType": "marblesandmorbie8",
+            "Uid": "map69nodeb6"
+        },
+        "map69nodeb7": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map69",
+            "NodeConnections": "map69nodeb8",
+            "NodeType": "marblesandcrossroadalt6",
+            "Uid": "map69nodeb7"
+        },
+        "map69nodec4": {
+            "ChestType": "chestboss",
+            "MapId": "map69",
+            "NodeConnections": "map69nodec5",
+            "NodeType": "marblesandboss7",
+            "Uid": "map69nodec4"
+        },
+        "map69nodec6": {
+            "ChestType": "chestboostedskin",
+            "MapId": "map69",
+            "NodeConnections": "map69nodec7",
+            "NodeType": "marblesandwall6",
+            "Uid": "map69nodec6"
+        },
+        "map69nodec7": {
+            "ChestType": "chestboss",
+            "MapId": "map69",
+            "NodeConnections": "map69nodec8,map69nodeb7",
+            "NodeType": "marblesandmorbie8",
+            "Uid": "map69nodec7"
+        },
+        "map70nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "map70",
+            "NodeConnections": "",
+            "NodeType": "marbletoastymorbieboss1",
+            "Uid": "map70nodea10"
+        },
+        "map70nodeb5": {
+            "ChestType": "chestboostedskin",
+            "MapId": "map70",
+            "NodeConnections": "map70nodeb6,map70nodea5",
+            "NodeType": "marbletoastyspringhoriz1",
+            "Uid": "map70nodeb5"
+        },
+        "map70nodeb9": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "map70",
+            "NodeConnections": "map70nodea10",
+            "NodeType": "marbletoastyisland1",
+            "Uid": "map70nodeb9"
+        },
+        "map70nodec6": {
+            "ChestType": "chestboostedgold",
+            "MapId": "map70",
+            "NodeConnections": "map70nodec7",
+            "NodeType": "marbletoastyisland1",
+            "Uid": "map70nodec6"
+        },
+        "mapvanilla44nodea8": {
+            "ChestType": "chestboss",
+            "MapId": "mapvanilla44",
+            "NodeConnections": "",
+            "NodeType": "lichlair",
+            "Uid": "mapvanilla44nodea8"
+        },
+        "mapvanilla44nodeb6": {
+            "ChestType": "chestboss",
+            "MapId": "mapvanilla44",
+            "NodeConnections": "",
+            "NodeType": "orctotem",
+            "Uid": "mapvanilla44nodeb6"
+        },
+        "mapvanilla45nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "mapvanilla45",
+            "NodeConnections": "",
+            "NodeType": "wintersnowman",
+            "Uid": "mapvanilla45nodea10"
+        },
+        "mapvanilla46nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "mapvanilla46",
+            "NodeConnections": "",
+            "NodeType": "oasisboss",
+            "Uid": "mapvanilla46nodea10"
+        },
+        "mapvanilla46nodec10": {
+            "ChestType": "chestboss",
+            "MapId": "mapvanilla46",
+            "NodeConnections": "",
+            "NodeType": "frontiershowdown",
+            "Uid": "mapvanilla46nodec10"
+        },
+        "mapvanilla47nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "mapvanilla47",
+            "NodeConnections": "",
+            "NodeType": "mothershiphangar",
+            "Uid": "mapvanilla47nodea10"
+        },
+        "mapvanilla48nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "mapvanilla48",
+            "NodeConnections": "",
+            "NodeType": "icecaveboss",
+            "Uid": "mapvanilla48nodea10"
+        },
+        "mapvanilla48nodeb10": {
+            "ChestType": "chestboss",
+            "MapId": "mapvanilla48",
+            "NodeConnections": "",
+            "NodeType": "crystalcavethrone",
+            "Uid": "mapvanilla48nodeb10"
+        },
+        "mapvanilla49nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "mapvanilla49",
+            "NodeConnections": "",
+            "NodeType": "retroboss",
+            "Uid": "mapvanilla49nodea10"
+        },
+        "mapvanilla50nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "mapvanilla50",
+            "NodeConnections": "",
+            "NodeType": "wastelandboss",
+            "Uid": "mapvanilla50nodea10"
+        },
+        "mapvanilla51nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "mapvanilla51",
+            "NodeConnections": "",
+            "NodeType": "shadeboss",
+            "Uid": "mapvanilla51nodea10"
+        },
+        "mapvanilla51nodec10": {
+            "ChestType": "chestboss",
+            "MapId": "mapvanilla51",
+            "NodeConnections": "",
+            "NodeType": "hauntedboss",
+            "Uid": "mapvanilla51nodec10"
+        },
+        "mapvanilla52nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "mapvanilla52",
+            "NodeConnections": "",
+            "NodeType": "wildsboss",
+            "Uid": "mapvanilla52nodea10"
+        },
+        "mapvanilla53nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "mapvanilla53",
+            "NodeConnections": "",
+            "NodeType": "steampunksiege",
+            "Uid": "mapvanilla53nodea10"
+        },
+        "mapvanilla53nodec10": {
+            "ChestType": "chestboss",
+            "MapId": "mapvanilla53",
+            "NodeConnections": "",
+            "NodeType": "moboboss",
+            "Uid": "mapvanilla53nodec10"
+        },
+        "mapvanilla54nodea10": {
+            "ChestType": "chestboss",
+            "MapId": "mapvanilla54",
+            "NodeConnections": "",
+            "NodeType": "lavafurnace",
+            "Uid": "mapvanilla54nodea10"
+        },
+        "overworldmap01node_bot_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap01",
+            "NodeConnections": "",
+            "NodeType": "sugartownminiboss",
+            "Uid": "overworldmap01node_bot_boss"
+        },
+        "overworldmap01node_bot_extra2": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap01",
+            "NodeConnections": "overworldmap01node_bot_boss",
+            "NodeType": "sugarmystery",
+            "Uid": "overworldmap01node_bot_extra2"
+        },
+        "overworldmap01node_top_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap01",
+            "NodeConnections": "",
+            "NodeType": "sugartownminiboss",
+            "Uid": "overworldmap01node_top_boss"
+        },
+        "overworldmap01node_top_extra": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap01",
+            "NodeConnections": "overworldmap01node_top_8",
+            "NodeType": "sugarbridge",
+            "Uid": "overworldmap01node_top_extra"
+        },
+        "overworldmap02node_bot_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap02",
+            "NodeConnections": "",
+            "NodeType": "sugarroadminiboss",
+            "Uid": "overworldmap02node_bot_boss"
+        },
+        "overworldmap02node_bot_extra1": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap02",
+            "NodeConnections": "overworldmap02node_bot_6a,overworldmap02node_bot_6b",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap02node_bot_extra1"
+        },
+        "overworldmap02node_top_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap02",
+            "NodeConnections": "",
+            "NodeType": "sugarroadminiboss",
+            "Uid": "overworldmap02node_top_boss"
+        },
+        "overworldmap02node_top_extra": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap02",
+            "NodeConnections": "overworldmap02node_top_8",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap02node_top_extra"
+        },
+        "overworldmap03node_bot_4a": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap03",
+            "NodeConnections": "overworldmap03node_bot_5",
+            "NodeType": "sugarvillage",
+            "Uid": "overworldmap03node_bot_4a"
+        },
+        "overworldmap03node_bot_4b": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap03",
+            "NodeConnections": "overworldmap03node_bot_5",
+            "NodeType": "sugarbridge",
+            "Uid": "overworldmap03node_bot_4b"
+        },
+        "overworldmap03node_bot_6a": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap03",
+            "NodeConnections": "overworldmap03node_bot_extra,overworldmap03node_bot_boss",
+            "NodeType": "sugarroad",
+            "Uid": "overworldmap03node_bot_6a"
+        },
+        "overworldmap03node_bot_6b": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap03",
+            "NodeConnections": "overworldmap03node_bot_extra,overworldmap03node_bot_boss",
+            "NodeType": "sugarforest",
+            "Uid": "overworldmap03node_bot_6b"
+        },
+        "overworldmap03node_bot_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap03",
+            "NodeConnections": "",
+            "NodeType": "sugarbridgeminiboss",
+            "Uid": "overworldmap03node_bot_boss"
+        },
+        "overworldmap03node_top_6a": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap03",
+            "NodeConnections": "overworldmap03node_top_7a",
+            "NodeType": "sugarroad",
+            "Uid": "overworldmap03node_top_6a"
+        },
+        "overworldmap03node_top_6b": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap03",
+            "NodeConnections": "overworldmap03node_top_7b",
+            "NodeType": "sugarbridge",
+            "Uid": "overworldmap03node_top_6b"
+        },
+        "overworldmap03node_top_7a": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap03",
+            "NodeConnections": "overworldmap03node_top_8",
+            "NodeType": "sugarvillage",
+            "Uid": "overworldmap03node_top_7a"
+        },
+        "overworldmap03node_top_7b": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap03",
+            "NodeConnections": "overworldmap03node_top_8",
+            "NodeType": "sugarroad",
+            "Uid": "overworldmap03node_top_7b"
+        },
+        "overworldmap03node_top_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap03",
+            "NodeConnections": "",
+            "NodeType": "sugarbridgeminiboss",
+            "Uid": "overworldmap03node_top_boss"
+        },
+        "overworldmap04node_bot_4a": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap04",
+            "NodeConnections": "overworldmap04node_bot_5",
+            "NodeType": "sugartown",
+            "Uid": "overworldmap04node_bot_4a"
+        },
+        "overworldmap04node_bot_4b": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap04",
+            "NodeConnections": "overworldmap04node_bot_5",
+            "NodeType": "sugarforest",
+            "Uid": "overworldmap04node_bot_4b"
+        },
+        "overworldmap04node_bot_6a": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap04",
+            "NodeConnections": "overworldmap04node_bot_boss,overworldmap04node_bot_extra",
+            "NodeType": "sugarroad",
+            "Uid": "overworldmap04node_bot_6a"
+        },
+        "overworldmap04node_bot_6b": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap04",
+            "NodeConnections": "overworldmap04node_bot_boss,overworldmap04node_bot_extra",
+            "NodeType": "sugarbridge",
+            "Uid": "overworldmap04node_bot_6b"
+        },
+        "overworldmap04node_bot_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap04",
+            "NodeConnections": "",
+            "NodeType": "sugarforestminiboss",
+            "Uid": "overworldmap04node_bot_boss"
+        },
+        "overworldmap04node_top_7a": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap04",
+            "NodeConnections": "overworldmap04node_top_8",
+            "NodeType": "sugartown",
+            "Uid": "overworldmap04node_top_7a"
+        },
+        "overworldmap04node_top_7b": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap04",
+            "NodeConnections": "overworldmap04node_top_8",
+            "NodeType": "sugarforest",
+            "Uid": "overworldmap04node_top_7b"
+        },
+        "overworldmap04node_top_9a": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap04",
+            "NodeConnections": "overworldmap04node_top_boss",
+            "NodeType": "sugarroad",
+            "Uid": "overworldmap04node_top_9a"
+        },
+        "overworldmap04node_top_9b": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap04",
+            "NodeConnections": "overworldmap04node_top_boss",
+            "NodeType": "sugarvillage",
+            "Uid": "overworldmap04node_top_9b"
+        },
+        "overworldmap04node_top_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap04",
+            "NodeConnections": "",
+            "NodeType": "sugarforestminiboss",
+            "Uid": "overworldmap04node_top_boss"
+        },
+        "overworldmap05node_bot_6a": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap05",
+            "NodeConnections": "overworldmap05node_bot_boss,overworldmap05node_bot_extra2",
+            "NodeType": "sugarforest",
+            "Uid": "overworldmap05node_bot_6a"
+        },
+        "overworldmap05node_bot_6b": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap05",
+            "NodeConnections": "overworldmap05node_bot_boss,overworldmap05node_bot_extra2",
+            "NodeType": "sugarbridge",
+            "Uid": "overworldmap05node_bot_6b"
+        },
+        "overworldmap05node_bot_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap05",
+            "NodeConnections": "",
+            "NodeType": "sugarvillageminiboss",
+            "Uid": "overworldmap05node_bot_boss"
+        },
+        "overworldmap05node_bot_extra1": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap05",
+            "NodeConnections": "overworldmap05node_bot_5",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap05node_bot_extra1"
+        },
+        "overworldmap05node_top_6a": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap05",
+            "NodeConnections": "overworldmap05node_top_7a",
+            "NodeType": "sugarbridge",
+            "Uid": "overworldmap05node_top_6a"
+        },
+        "overworldmap05node_top_6b": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap05",
+            "NodeConnections": "overworldmap05node_top_7b",
+            "NodeType": "sugarvillage",
+            "Uid": "overworldmap05node_top_6b"
+        },
+        "overworldmap05node_top_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap05",
+            "NodeConnections": "",
+            "NodeType": "sugarvillageminiboss",
+            "Uid": "overworldmap05node_top_boss"
+        },
+        "overworldmap05node_top_extra1": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap05",
+            "NodeConnections": "overworldmap05node_top_5",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap05node_top_extra1"
+        },
+        "overworldmap06node_bot_4a": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap06",
+            "NodeConnections": "overworldmap06node_bot_5",
+            "NodeType": "sugarforest",
+            "Uid": "overworldmap06node_bot_4a"
+        },
+        "overworldmap06node_bot_4b": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap06",
+            "NodeConnections": "overworldmap06node_bot_5",
+            "NodeType": "sugartown",
+            "Uid": "overworldmap06node_bot_4b"
+        },
+        "overworldmap06node_bot_6a": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap06",
+            "NodeConnections": "overworldmap06node_bot_extra,overworldmap06node_bot_boss",
+            "NodeType": "sugartown",
+            "Uid": "overworldmap06node_bot_6a"
+        },
+        "overworldmap06node_bot_6b": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap06",
+            "NodeConnections": "overworldmap06node_bot_extra,overworldmap06node_bot_boss",
+            "NodeType": "sugarvillage",
+            "Uid": "overworldmap06node_bot_6b"
+        },
+        "overworldmap06node_bot_boss": {
+            "ChestType": "chestbosssuper",
+            "MapId": "overworldmap06",
+            "NodeConnections": "",
+            "NodeType": "sugarbosscapital",
+            "Uid": "overworldmap06node_bot_boss"
+        },
+        "overworldmap06node_top_4a": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap06",
+            "NodeConnections": "overworldmap06node_top_5",
+            "NodeType": "sugarroad",
+            "Uid": "overworldmap06node_top_4a"
+        },
+        "overworldmap06node_top_4b": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap06",
+            "NodeConnections": "overworldmap06node_top_5",
+            "NodeType": "sugarforest",
+            "Uid": "overworldmap06node_top_4b"
+        },
+        "overworldmap06node_top_7a": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap06",
+            "NodeConnections": "overworldmap06node_top_8",
+            "NodeType": "sugartown",
+            "Uid": "overworldmap06node_top_7a"
+        },
+        "overworldmap06node_top_7b": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap06",
+            "NodeConnections": "overworldmap06node_top_8",
+            "NodeType": "sugarforest",
+            "Uid": "overworldmap06node_top_7b"
+        },
+        "overworldmap06node_top_boss": {
+            "ChestType": "chestbosssuper",
+            "MapId": "overworldmap06",
+            "NodeConnections": "",
+            "NodeType": "sugarbosscapital",
+            "Uid": "overworldmap06node_top_boss"
+        },
+        "overworldmap07node_bot_3b": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap07",
+            "NodeConnections": "overworldmap07node_bot_4b",
+            "NodeType": "sugargiantsdiningroom",
+            "Uid": "overworldmap07node_bot_3b"
+        },
+        "overworldmap07node_bot_4a": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap07",
+            "NodeConnections": "overworldmap07node_bot_5",
+            "NodeType": "sugargiantsdiningroom",
+            "Uid": "overworldmap07node_bot_4a"
+        },
+        "overworldmap07node_bot_6a": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap07",
+            "NodeConnections": "overworldmap07node_bot_boss,overworldmap07node_bot_extra",
+            "NodeType": "sugargiantslibrary",
+            "Uid": "overworldmap07node_bot_6a"
+        },
+        "overworldmap07node_bot_6b": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap07",
+            "NodeConnections": "overworldmap07node_bot_boss,overworldmap07node_bot_extra",
+            "NodeType": "sugargiantsbedroom",
+            "Uid": "overworldmap07node_bot_6b"
+        },
+        "overworldmap07node_bot_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap07",
+            "NodeConnections": "",
+            "NodeType": "sugargiantsdiningroomminiboss",
+            "Uid": "overworldmap07node_bot_boss"
+        },
+        "overworldmap07node_top_7a": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap07",
+            "NodeConnections": "overworldmap07node_top_8",
+            "NodeType": "sugargiantsdiningroom",
+            "Uid": "overworldmap07node_top_7a"
+        },
+        "overworldmap07node_top_7b": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap07",
+            "NodeConnections": "overworldmap07node_top_8",
+            "NodeType": "sugargiantslibrary",
+            "Uid": "overworldmap07node_top_7b"
+        },
+        "overworldmap07node_top_9a": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap07",
+            "NodeConnections": "overworldmap07node_top_boss",
+            "NodeType": "sugargiantskitchen",
+            "Uid": "overworldmap07node_top_9a"
+        },
+        "overworldmap07node_top_9b": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap07",
+            "NodeConnections": "overworldmap07node_top_boss",
+            "NodeType": "sugargiantsbedroom",
+            "Uid": "overworldmap07node_top_9b"
+        },
+        "overworldmap07node_top_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap07",
+            "NodeConnections": "",
+            "NodeType": "sugargiantsdiningroomminiboss",
+            "Uid": "overworldmap07node_top_boss"
+        },
+        "overworldmap08node_bot_4a": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap08",
+            "NodeConnections": "overworldmap08node_bot_5",
+            "NodeType": "sugargiantsbedroom",
+            "Uid": "overworldmap08node_bot_4a"
+        },
+        "overworldmap08node_bot_4b": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap08",
+            "NodeConnections": "overworldmap08node_bot_5",
+            "NodeType": "sugargiantslibrary",
+            "Uid": "overworldmap08node_bot_4b"
+        },
+        "overworldmap08node_bot_6a": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap08",
+            "NodeConnections": "overworldmap08node_bot_boss,overworldmap08node_bot_extra",
+            "NodeType": "sugargiantsdiningroom",
+            "Uid": "overworldmap08node_bot_6a"
+        },
+        "overworldmap08node_bot_6b": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap08",
+            "NodeConnections": "overworldmap08node_bot_boss,overworldmap08node_bot_extra",
+            "NodeType": "sugargiantsgarden",
+            "Uid": "overworldmap08node_bot_6b"
+        },
+        "overworldmap08node_bot_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap08",
+            "NodeConnections": "",
+            "NodeType": "sugargiantsbedroomminiboss",
+            "Uid": "overworldmap08node_bot_boss"
+        },
+        "overworldmap08node_bot_extra": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap08",
+            "NodeConnections": "overworldmap08node_bot_boss",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap08node_bot_extra"
+        },
+        "overworldmap08node_top_6a": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap08",
+            "NodeConnections": "overworldmap08node_top_7a,overworldmap08node_top_extra",
+            "NodeType": "sugargiantsbedroom",
+            "Uid": "overworldmap08node_top_6a"
+        },
+        "overworldmap08node_top_6b": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap08",
+            "NodeConnections": "overworldmap08node_top_7b,overworldmap08node_top_extra",
+            "NodeType": "sugargiantsdiningroom",
+            "Uid": "overworldmap08node_top_6b"
+        },
+        "overworldmap08node_top_9a": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap08",
+            "NodeConnections": "overworldmap08node_top_boss",
+            "NodeType": "sugargiantslibrary",
+            "Uid": "overworldmap08node_top_9a"
+        },
+        "overworldmap08node_top_9b": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap08",
+            "NodeConnections": "overworldmap08node_top_boss",
+            "NodeType": "sugargiantskitchen",
+            "Uid": "overworldmap08node_top_9b"
+        },
+        "overworldmap08node_top_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap08",
+            "NodeConnections": "",
+            "NodeType": "sugargiantsbedroomminiboss",
+            "Uid": "overworldmap08node_top_boss"
+        },
+        "overworldmap08node_top_extra": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap08",
+            "NodeConnections": "overworldmap08node_top_7a,overworldmap08node_top_7b",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap08node_top_extra"
+        },
+        "overworldmap09node_bot_4a": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap09",
+            "NodeConnections": "overworldmap09node_bot_5",
+            "NodeType": "sugargiantsgarden",
+            "Uid": "overworldmap09node_bot_4a"
+        },
+        "overworldmap09node_bot_4b": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap09",
+            "NodeConnections": "overworldmap09node_bot_5",
+            "NodeType": "sugargiantskitchen",
+            "Uid": "overworldmap09node_bot_4b"
+        },
+        "overworldmap09node_bot_6a": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap09",
+            "NodeConnections": "overworldmap09node_bot_extra,overworldmap09node_bot_boss",
+            "NodeType": "sugargiantsbedroom",
+            "Uid": "overworldmap09node_bot_6a"
+        },
+        "overworldmap09node_bot_6b": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap09",
+            "NodeConnections": "overworldmap09node_bot_extra,overworldmap09node_bot_boss",
+            "NodeType": "sugargiantsdiningroom",
+            "Uid": "overworldmap09node_bot_6b"
+        },
+        "overworldmap09node_bot_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap09",
+            "NodeConnections": "",
+            "NodeType": "sugargiantskitchenminiboss",
+            "Uid": "overworldmap09node_bot_boss"
+        },
+        "overworldmap09node_top_7a": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap09",
+            "NodeConnections": "overworldmap09node_top_8",
+            "NodeType": "sugargiantslibrary",
+            "Uid": "overworldmap09node_top_7a"
+        },
+        "overworldmap09node_top_7b": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap09",
+            "NodeConnections": "overworldmap09node_top_8",
+            "NodeType": "sugargiantskitchen",
+            "Uid": "overworldmap09node_top_7b"
+        },
+        "overworldmap09node_top_9a": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap09",
+            "NodeConnections": "overworldmap09node_top_boss",
+            "NodeType": "sugargiantsgarden",
+            "Uid": "overworldmap09node_top_9a"
+        },
+        "overworldmap09node_top_9b": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap09",
+            "NodeConnections": "overworldmap09node_top_boss",
+            "NodeType": "sugargiantsbedroom",
+            "Uid": "overworldmap09node_top_9b"
+        },
+        "overworldmap09node_top_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap09",
+            "NodeConnections": "",
+            "NodeType": "sugargiantskitchenminiboss",
+            "Uid": "overworldmap09node_top_boss"
+        },
+        "overworldmap10node_bot_4a": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap10",
+            "NodeConnections": "overworldmap10node_bot_5",
+            "NodeType": "sugargiantskitchen",
+            "Uid": "overworldmap10node_bot_4a"
+        },
+        "overworldmap10node_bot_4b": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap10",
+            "NodeConnections": "overworldmap10node_bot_5",
+            "NodeType": "sugargiantsbedroom",
+            "Uid": "overworldmap10node_bot_4b"
+        },
+        "overworldmap10node_bot_6a": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap10",
+            "NodeConnections": "overworldmap10node_bot_boss,overworldmap10node_bot_extra",
+            "NodeType": "sugargiantslibrary",
+            "Uid": "overworldmap10node_bot_6a"
+        },
+        "overworldmap10node_bot_6b": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap10",
+            "NodeConnections": "overworldmap10node_bot_boss,overworldmap10node_bot_extra",
+            "NodeType": "sugargiantsdiningroom",
+            "Uid": "overworldmap10node_bot_6b"
+        },
+        "overworldmap10node_bot_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap10",
+            "NodeConnections": "",
+            "NodeType": "sugargiantslibraryminiboss",
+            "Uid": "overworldmap10node_bot_boss"
+        },
+        "overworldmap10node_bot_extra": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap10",
+            "NodeConnections": "overworldmap10node_bot_boss",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap10node_bot_extra"
+        },
+        "overworldmap10node_top_7a": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap10",
+            "NodeConnections": "overworldmap10node_top_8",
+            "NodeType": "sugargiantslibrary",
+            "Uid": "overworldmap10node_top_7a"
+        },
+        "overworldmap10node_top_7b": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap10",
+            "NodeConnections": "overworldmap10node_top_8",
+            "NodeType": "sugargiantsbedroom",
+            "Uid": "overworldmap10node_top_7b"
+        },
+        "overworldmap10node_top_9a": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap10",
+            "NodeConnections": "overworldmap10node_top_boss",
+            "NodeType": "sugargiantsgarden",
+            "Uid": "overworldmap10node_top_9a"
+        },
+        "overworldmap10node_top_9b": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap10",
+            "NodeConnections": "overworldmap10node_top_boss",
+            "NodeType": "sugargiantskitchen",
+            "Uid": "overworldmap10node_top_9b"
+        },
+        "overworldmap10node_top_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap10",
+            "NodeConnections": "",
+            "NodeType": "sugargiantslibraryminiboss",
+            "Uid": "overworldmap10node_top_boss"
+        },
+        "overworldmap10node_top_extra": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap10",
+            "NodeConnections": "overworldmap10node_top_5",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap10node_top_extra"
+        },
+        "overworldmap11node_bot_4a": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap11",
+            "NodeConnections": "overworldmap11node_bot_5",
+            "NodeType": "sugargiantsgarden",
+            "Uid": "overworldmap11node_bot_4a"
+        },
+        "overworldmap11node_bot_4b": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap11",
+            "NodeConnections": "overworldmap11node_bot_5",
+            "NodeType": "sugargiantskitchen",
+            "Uid": "overworldmap11node_bot_4b"
+        },
+        "overworldmap11node_bot_6a": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap11",
+            "NodeConnections": "overworldmap11node_bot_boss,overworldmap11node_bot_extra",
+            "NodeType": "sugargiantsdiningroomminiboss",
+            "Uid": "overworldmap11node_bot_6a"
+        },
+        "overworldmap11node_bot_6b": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap11",
+            "NodeConnections": "overworldmap11node_bot_boss,overworldmap11node_bot_extra",
+            "NodeType": "sugargiantsballroomminiboss",
+            "Uid": "overworldmap11node_bot_6b"
+        },
+        "overworldmap11node_bot_boss": {
+            "ChestType": "chestbosssuper",
+            "MapId": "overworldmap11",
+            "NodeConnections": "",
+            "NodeType": "sugargiantsbossparty",
+            "Uid": "overworldmap11node_bot_boss"
+        },
+        "overworldmap11node_top_4a": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap11",
+            "NodeConnections": "overworldmap11node_top_5",
+            "NodeType": "sugargiantskitchen",
+            "Uid": "overworldmap11node_top_4a"
+        },
+        "overworldmap11node_top_4b": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap11",
+            "NodeConnections": "overworldmap11node_top_5",
+            "NodeType": "sugargiantskitchen",
+            "Uid": "overworldmap11node_top_4b"
+        },
+        "overworldmap11node_top_7a": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap11",
+            "NodeConnections": "overworldmap11node_top_8",
+            "NodeType": "sugargiantsgarden",
+            "Uid": "overworldmap11node_top_7a"
+        },
+        "overworldmap11node_top_7b": {
+            "ChestType": "chestboostedskin_maps01to11",
+            "MapId": "overworldmap11",
+            "NodeConnections": "overworldmap11node_top_8",
+            "NodeType": "sugargiantslibrary",
+            "Uid": "overworldmap11node_top_7b"
+        },
+        "overworldmap11node_top_boss": {
+            "ChestType": "chestbosssuper",
+            "MapId": "overworldmap11",
+            "NodeConnections": "",
+            "NodeType": "sugargiantsbossparty",
+            "Uid": "overworldmap11node_top_boss"
+        },
+        "overworldmap12node_bot_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap12",
+            "NodeConnections": "",
+            "NodeType": "polterheistplaza",
+            "Uid": "overworldmap12node_bot_boss"
+        },
+        "overworldmap12node_bot_extra2": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap12",
+            "NodeConnections": "overworldmap12node_bot_boss",
+            "NodeType": "polterheisttownmystery",
+            "Uid": "overworldmap12node_bot_extra2"
+        },
+        "overworldmap12node_top_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap12",
+            "NodeConnections": "",
+            "NodeType": "polterheistplaza",
+            "Uid": "overworldmap12node_top_boss"
+        },
+        "overworldmap12node_top_extra": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap12",
+            "NodeConnections": "overworldmap12node_top_8",
+            "NodeType": "polterheistbreaking",
+            "Uid": "overworldmap12node_top_extra"
+        },
+        "overworldmap13node_bot_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap13",
+            "NodeConnections": "",
+            "NodeType": "polterheistbreaking",
+            "Uid": "overworldmap13node_bot_boss"
+        },
+        "overworldmap13node_bot_extra1": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap13",
+            "NodeConnections": "overworldmap13node_bot_6a,overworldmap13node_bot_6b",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap13node_bot_extra1"
+        },
+        "overworldmap13node_top_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap13",
+            "NodeConnections": "",
+            "NodeType": "polterheistbreaking",
+            "Uid": "overworldmap13node_top_boss"
+        },
+        "overworldmap13node_top_extra": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap13",
+            "NodeConnections": "overworldmap13node_top_8",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap13node_top_extra"
+        },
+        "overworldmap14node_bot_4a": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap14",
+            "NodeConnections": "overworldmap14node_bot_5",
+            "NodeType": "polterheistmansion",
+            "Uid": "overworldmap14node_bot_4a"
+        },
+        "overworldmap14node_bot_4b": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap14",
+            "NodeConnections": "overworldmap14node_bot_5",
+            "NodeType": "polterheistbreaking",
+            "Uid": "overworldmap14node_bot_4b"
+        },
+        "overworldmap14node_bot_6b": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap14",
+            "NodeConnections": "overworldmap14node_bot_extra,overworldmap14node_bot_boss",
+            "NodeType": "polterheistpanicroom",
+            "Uid": "overworldmap14node_bot_6b"
+        },
+        "overworldmap14node_bot_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap14",
+            "NodeConnections": "",
+            "NodeType": "polterheisttownsquare",
+            "Uid": "overworldmap14node_bot_boss"
+        },
+        "overworldmap14node_top_6a": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap14",
+            "NodeConnections": "overworldmap14node_top_7a",
+            "NodeType": "polterheisttownsquare",
+            "Uid": "overworldmap14node_top_6a"
+        },
+        "overworldmap14node_top_6b": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap14",
+            "NodeConnections": "overworldmap14node_top_7b",
+            "NodeType": "polterheistbreaking",
+            "Uid": "overworldmap14node_top_6b"
+        },
+        "overworldmap14node_top_7a": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap14",
+            "NodeConnections": "overworldmap14node_top_8",
+            "NodeType": "polterheistmansion",
+            "Uid": "overworldmap14node_top_7a"
+        },
+        "overworldmap14node_top_7b": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap14",
+            "NodeConnections": "overworldmap14node_top_8",
+            "NodeType": "polterheisttownsquare",
+            "Uid": "overworldmap14node_top_7b"
+        },
+        "overworldmap14node_top_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap14",
+            "NodeConnections": "",
+            "NodeType": "polterheisttownsquare",
+            "Uid": "overworldmap14node_top_boss"
+        },
+        "overworldmap15node_bot_4a": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap15",
+            "NodeConnections": "overworldmap15node_bot_5",
+            "NodeType": "polterheistplaza",
+            "Uid": "overworldmap15node_bot_4a"
+        },
+        "overworldmap15node_bot_4b": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap15",
+            "NodeConnections": "overworldmap15node_bot_5",
+            "NodeType": "polterheistpanicroom",
+            "Uid": "overworldmap15node_bot_4b"
+        },
+        "overworldmap15node_bot_6a": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap15",
+            "NodeConnections": "overworldmap15node_bot_boss,overworldmap15node_bot_extra",
+            "NodeType": "polterheisttownsquare",
+            "Uid": "overworldmap15node_bot_6a"
+        },
+        "overworldmap15node_bot_6b": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap15",
+            "NodeConnections": "overworldmap15node_bot_boss,overworldmap15node_bot_extra",
+            "NodeType": "polterheistbreaking",
+            "Uid": "overworldmap15node_bot_6b"
+        },
+        "overworldmap15node_bot_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap15",
+            "NodeConnections": "",
+            "NodeType": "polterheistpanicroom",
+            "Uid": "overworldmap15node_bot_boss"
+        },
+        "overworldmap15node_top_7a": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap15",
+            "NodeConnections": "overworldmap15node_top_8",
+            "NodeType": "polterheistplaza",
+            "Uid": "overworldmap15node_top_7a"
+        },
+        "overworldmap15node_top_7b": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap15",
+            "NodeConnections": "overworldmap15node_top_8",
+            "NodeType": "polterheistpanicroom",
+            "Uid": "overworldmap15node_top_7b"
+        },
+        "overworldmap15node_top_9a": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap15",
+            "NodeConnections": "overworldmap15node_top_boss",
+            "NodeType": "polterheisttownsquare",
+            "Uid": "overworldmap15node_top_9a"
+        },
+        "overworldmap15node_top_9b": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap15",
+            "NodeConnections": "overworldmap15node_top_boss",
+            "NodeType": "polterheistmansion",
+            "Uid": "overworldmap15node_top_9b"
+        },
+        "overworldmap15node_top_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap15",
+            "NodeConnections": "",
+            "NodeType": "polterheistpanicroom",
+            "Uid": "overworldmap15node_top_boss"
+        },
+        "overworldmap16node_bot_6a": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap16",
+            "NodeConnections": "overworldmap16node_bot_boss,overworldmap16node_bot_extra2",
+            "NodeType": "polterheistpanicroom",
+            "Uid": "overworldmap16node_bot_6a"
+        },
+        "overworldmap16node_bot_6b": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap16",
+            "NodeConnections": "overworldmap16node_bot_boss,overworldmap16node_bot_extra2",
+            "NodeType": "polterheistbreaking",
+            "Uid": "overworldmap16node_bot_6b"
+        },
+        "overworldmap16node_bot_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap16",
+            "NodeConnections": "",
+            "NodeType": "polterheistmansion",
+            "Uid": "overworldmap16node_bot_boss"
+        },
+        "overworldmap16node_bot_extra1": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap16",
+            "NodeConnections": "overworldmap16node_bot_5",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap16node_bot_extra1"
+        },
+        "overworldmap16node_top_6a": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap16",
+            "NodeConnections": "overworldmap16node_top_7a",
+            "NodeType": "polterheistbreaking",
+            "Uid": "overworldmap16node_top_6a"
+        },
+        "overworldmap16node_top_6b": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap16",
+            "NodeConnections": "overworldmap16node_top_7b",
+            "NodeType": "polterheistmansion",
+            "Uid": "overworldmap16node_top_6b"
+        },
+        "overworldmap16node_top_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap16",
+            "NodeConnections": "",
+            "NodeType": "polterheistmansion",
+            "Uid": "overworldmap16node_top_boss"
+        },
+        "overworldmap16node_top_extra1": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap16",
+            "NodeConnections": "overworldmap16node_top_5",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap16node_top_extra1"
+        },
+        "overworldmap17node_bot_4a": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap17",
+            "NodeConnections": "overworldmap17node_bot_5",
+            "NodeType": "polterheistpanicroom",
+            "Uid": "overworldmap17node_bot_4a"
+        },
+        "overworldmap17node_bot_4b": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap17",
+            "NodeConnections": "overworldmap17node_bot_5",
+            "NodeType": "polterheistplaza",
+            "Uid": "overworldmap17node_bot_4b"
+        },
+        "overworldmap17node_bot_6a": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap17",
+            "NodeConnections": "overworldmap17node_bot_extra,overworldmap17node_bot_boss",
+            "NodeType": "polterheistplaza",
+            "Uid": "overworldmap17node_bot_6a"
+        },
+        "overworldmap17node_bot_6b": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap17",
+            "NodeConnections": "overworldmap17node_bot_extra,overworldmap17node_bot_boss",
+            "NodeType": "polterheistmansion",
+            "Uid": "overworldmap17node_bot_6b"
+        },
+        "overworldmap17node_bot_boss": {
+            "ChestType": "chestbosssuper",
+            "MapId": "overworldmap17",
+            "NodeConnections": "",
+            "NodeType": "polterheisttownboss",
+            "Uid": "overworldmap17node_bot_boss"
+        },
+        "overworldmap17node_top_4a": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap17",
+            "NodeConnections": "overworldmap17node_top_5",
+            "NodeType": "polterheisttownsquare",
+            "Uid": "overworldmap17node_top_4a"
+        },
+        "overworldmap17node_top_4b": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap17",
+            "NodeConnections": "overworldmap17node_top_5",
+            "NodeType": "polterheistpanicroom",
+            "Uid": "overworldmap17node_top_4b"
+        },
+        "overworldmap17node_top_7a": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap17",
+            "NodeConnections": "overworldmap17node_top_8",
+            "NodeType": "polterheistplaza",
+            "Uid": "overworldmap17node_top_7a"
+        },
+        "overworldmap17node_top_7b": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap17",
+            "NodeConnections": "overworldmap17node_top_8",
+            "NodeType": "polterheistpanicroom",
+            "Uid": "overworldmap17node_top_7b"
+        },
+        "overworldmap17node_top_boss": {
+            "ChestType": "chestbosssuper",
+            "MapId": "overworldmap17",
+            "NodeConnections": "",
+            "NodeType": "polterheisttownboss",
+            "Uid": "overworldmap17node_top_boss"
+        },
+        "overworldmap18node_bot_3b": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap18",
+            "NodeConnections": "overworldmap18node_bot_4b",
+            "NodeType": "polterheistforestmist",
+            "Uid": "overworldmap18node_bot_3b"
+        },
+        "overworldmap18node_bot_4a": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap18",
+            "NodeConnections": "overworldmap18node_bot_5",
+            "NodeType": "polterheistforestmist",
+            "Uid": "overworldmap18node_bot_4a"
+        },
+        "overworldmap18node_bot_6a": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap18",
+            "NodeConnections": "overworldmap18node_bot_boss,overworldmap18node_bot_extra",
+            "NodeType": "polterheistroad",
+            "Uid": "overworldmap18node_bot_6a"
+        },
+        "overworldmap18node_bot_6b": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap18",
+            "NodeConnections": "overworldmap18node_bot_boss,overworldmap18node_bot_extra",
+            "NodeType": "polterheistswamp",
+            "Uid": "overworldmap18node_bot_6b"
+        },
+        "overworldmap18node_bot_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap18",
+            "NodeConnections": "",
+            "NodeType": "polterheistforestmist",
+            "Uid": "overworldmap18node_bot_boss"
+        },
+        "overworldmap18node_top_7a": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap18",
+            "NodeConnections": "overworldmap18node_top_8",
+            "NodeType": "polterheistforestmist",
+            "Uid": "overworldmap18node_top_7a"
+        },
+        "overworldmap18node_top_7b": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap18",
+            "NodeConnections": "overworldmap18node_top_8",
+            "NodeType": "polterheistroad",
+            "Uid": "overworldmap18node_top_7b"
+        },
+        "overworldmap18node_top_9a": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap18",
+            "NodeConnections": "overworldmap18node_top_boss",
+            "NodeType": "polterheistclearing",
+            "Uid": "overworldmap18node_top_9a"
+        },
+        "overworldmap18node_top_9b": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap18",
+            "NodeConnections": "overworldmap18node_top_boss",
+            "NodeType": "polterheistswamp",
+            "Uid": "overworldmap18node_top_9b"
+        },
+        "overworldmap18node_top_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap18",
+            "NodeConnections": "",
+            "NodeType": "polterheistforestmist",
+            "Uid": "overworldmap18node_top_boss"
+        },
+        "overworldmap19node_bot_4a": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap19",
+            "NodeConnections": "overworldmap19node_bot_5",
+            "NodeType": "polterheistswamp",
+            "Uid": "overworldmap19node_bot_4a"
+        },
+        "overworldmap19node_bot_4b": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap19",
+            "NodeConnections": "overworldmap19node_bot_5",
+            "NodeType": "polterheistroad",
+            "Uid": "overworldmap19node_bot_4b"
+        },
+        "overworldmap19node_bot_6a": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap19",
+            "NodeConnections": "overworldmap19node_bot_boss,overworldmap19node_bot_extra",
+            "NodeType": "polterheistforestmist",
+            "Uid": "overworldmap19node_bot_6a"
+        },
+        "overworldmap19node_bot_6b": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap19",
+            "NodeConnections": "overworldmap19node_bot_boss,overworldmap19node_bot_extra",
+            "NodeType": "polterheistrivercrossing",
+            "Uid": "overworldmap19node_bot_6b"
+        },
+        "overworldmap19node_bot_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap19",
+            "NodeConnections": "",
+            "NodeType": "polterheistswamp",
+            "Uid": "overworldmap19node_bot_boss"
+        },
+        "overworldmap19node_bot_extra": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap19",
+            "NodeConnections": "overworldmap19node_bot_boss",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap19node_bot_extra"
+        },
+        "overworldmap19node_top_6a": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap19",
+            "NodeConnections": "overworldmap19node_top_7a,overworldmap19node_top_extra",
+            "NodeType": "polterheistswamp",
+            "Uid": "overworldmap19node_top_6a"
+        },
+        "overworldmap19node_top_6b": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap19",
+            "NodeConnections": "overworldmap19node_top_7b,overworldmap19node_top_extra",
+            "NodeType": "polterheistforestmist",
+            "Uid": "overworldmap19node_top_6b"
+        },
+        "overworldmap19node_top_9a": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap19",
+            "NodeConnections": "overworldmap19node_top_boss",
+            "NodeType": "polterheistroad",
+            "Uid": "overworldmap19node_top_9a"
+        },
+        "overworldmap19node_top_9b": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap19",
+            "NodeConnections": "overworldmap19node_top_boss",
+            "NodeType": "polterheistclearing",
+            "Uid": "overworldmap19node_top_9b"
+        },
+        "overworldmap19node_top_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap19",
+            "NodeConnections": "",
+            "NodeType": "polterheistswamp",
+            "Uid": "overworldmap19node_top_boss"
+        },
+        "overworldmap19node_top_extra": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap19",
+            "NodeConnections": "overworldmap19node_top_7a,overworldmap19node_top_7b",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap19node_top_extra"
+        },
+        "overworldmap20node_bot_4a": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap20",
+            "NodeConnections": "overworldmap20node_bot_5",
+            "NodeType": "polterheistrivercrossing",
+            "Uid": "overworldmap20node_bot_4a"
+        },
+        "overworldmap20node_bot_4b": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap20",
+            "NodeConnections": "overworldmap20node_bot_5",
+            "NodeType": "polterheistclearing",
+            "Uid": "overworldmap20node_bot_4b"
+        },
+        "overworldmap20node_bot_6a": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap20",
+            "NodeConnections": "overworldmap20node_bot_extra,overworldmap20node_bot_boss",
+            "NodeType": "polterheistswamp",
+            "Uid": "overworldmap20node_bot_6a"
+        },
+        "overworldmap20node_bot_6b": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap20",
+            "NodeConnections": "overworldmap20node_bot_extra,overworldmap20node_bot_boss",
+            "NodeType": "polterheistforestmist",
+            "Uid": "overworldmap20node_bot_6b"
+        },
+        "overworldmap20node_bot_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap20",
+            "NodeConnections": "",
+            "NodeType": "polterheistclearing",
+            "Uid": "overworldmap20node_bot_boss"
+        },
+        "overworldmap20node_top_7a": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap20",
+            "NodeConnections": "overworldmap20node_top_8",
+            "NodeType": "polterheistroad",
+            "Uid": "overworldmap20node_top_7a"
+        },
+        "overworldmap20node_top_7b": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap20",
+            "NodeConnections": "overworldmap20node_top_8",
+            "NodeType": "polterheistclearing",
+            "Uid": "overworldmap20node_top_7b"
+        },
+        "overworldmap20node_top_9a": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap20",
+            "NodeConnections": "overworldmap20node_top_boss",
+            "NodeType": "polterheistrivercrossing",
+            "Uid": "overworldmap20node_top_9a"
+        },
+        "overworldmap20node_top_9b": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap20",
+            "NodeConnections": "overworldmap20node_top_boss",
+            "NodeType": "polterheistswamp",
+            "Uid": "overworldmap20node_top_9b"
+        },
+        "overworldmap20node_top_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap20",
+            "NodeConnections": "",
+            "NodeType": "polterheistclearing",
+            "Uid": "overworldmap20node_top_boss"
+        },
+        "overworldmap21node_bot_4a": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap21",
+            "NodeConnections": "overworldmap21node_bot_5",
+            "NodeType": "polterheistclearing",
+            "Uid": "overworldmap21node_bot_4a"
+        },
+        "overworldmap21node_bot_4b": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap21",
+            "NodeConnections": "overworldmap21node_bot_5",
+            "NodeType": "polterheistswamp",
+            "Uid": "overworldmap21node_bot_4b"
+        },
+        "overworldmap21node_bot_6a": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap21",
+            "NodeConnections": "overworldmap21node_bot_boss,overworldmap21node_bot_extra",
+            "NodeType": "polterheistroad",
+            "Uid": "overworldmap21node_bot_6a"
+        },
+        "overworldmap21node_bot_6b": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap21",
+            "NodeConnections": "overworldmap21node_bot_boss,overworldmap21node_bot_extra",
+            "NodeType": "polterheistforestmist",
+            "Uid": "overworldmap21node_bot_6b"
+        },
+        "overworldmap21node_bot_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap21",
+            "NodeConnections": "",
+            "NodeType": "polterheistroad",
+            "Uid": "overworldmap21node_bot_boss"
+        },
+        "overworldmap21node_bot_extra": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap21",
+            "NodeConnections": "overworldmap21node_bot_boss",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap21node_bot_extra"
+        },
+        "overworldmap21node_top_7a": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap21",
+            "NodeConnections": "overworldmap21node_top_8",
+            "NodeType": "polterheistroad",
+            "Uid": "overworldmap21node_top_7a"
+        },
+        "overworldmap21node_top_7b": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap21",
+            "NodeConnections": "overworldmap21node_top_8",
+            "NodeType": "polterheistswamp",
+            "Uid": "overworldmap21node_top_7b"
+        },
+        "overworldmap21node_top_9a": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap21",
+            "NodeConnections": "overworldmap21node_top_boss",
+            "NodeType": "polterheistrivercrossing",
+            "Uid": "overworldmap21node_top_9a"
+        },
+        "overworldmap21node_top_9b": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap21",
+            "NodeConnections": "overworldmap21node_top_boss",
+            "NodeType": "polterheistclearing",
+            "Uid": "overworldmap21node_top_9b"
+        },
+        "overworldmap21node_top_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap21",
+            "NodeConnections": "",
+            "NodeType": "polterheistroad",
+            "Uid": "overworldmap21node_top_boss"
+        },
+        "overworldmap21node_top_extra": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap21",
+            "NodeConnections": "overworldmap21node_top_5",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap21node_top_extra"
+        },
+        "overworldmap22node_bot_4a": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap22",
+            "NodeConnections": "overworldmap22node_bot_5",
+            "NodeType": "polterheistrivercrossing",
+            "Uid": "overworldmap22node_bot_4a"
+        },
+        "overworldmap22node_bot_4b": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap22",
+            "NodeConnections": "overworldmap22node_bot_5",
+            "NodeType": "polterheistclearing",
+            "Uid": "overworldmap22node_bot_4b"
+        },
+        "overworldmap22node_bot_6a": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap22",
+            "NodeConnections": "overworldmap22node_bot_boss,overworldmap22node_bot_extra",
+            "NodeType": "polterheistclearing",
+            "Uid": "overworldmap22node_bot_6a"
+        },
+        "overworldmap22node_bot_6b": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap22",
+            "NodeConnections": "overworldmap22node_bot_boss,overworldmap22node_bot_extra",
+            "NodeType": "polterheistforestmist",
+            "Uid": "overworldmap22node_bot_6b"
+        },
+        "overworldmap22node_bot_boss": {
+            "ChestType": "chestbosssuper",
+            "MapId": "overworldmap22",
+            "NodeConnections": "",
+            "NodeType": "polterheistforestboss",
+            "Uid": "overworldmap22node_bot_boss"
+        },
+        "overworldmap22node_top_4a": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap22",
+            "NodeConnections": "overworldmap22node_top_5",
+            "NodeType": "polterheistclearing",
+            "Uid": "overworldmap22node_top_4a"
+        },
+        "overworldmap22node_top_4b": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap22",
+            "NodeConnections": "overworldmap22node_top_5",
+            "NodeType": "polterheistclearing",
+            "Uid": "overworldmap22node_top_4b"
+        },
+        "overworldmap22node_top_7a": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap22",
+            "NodeConnections": "overworldmap22node_top_8",
+            "NodeType": "polterheistrivercrossing",
+            "Uid": "overworldmap22node_top_7a"
+        },
+        "overworldmap22node_top_7b": {
+            "ChestType": "chestboostedskin_maps12to23",
+            "MapId": "overworldmap22",
+            "NodeConnections": "overworldmap22node_top_8",
+            "NodeType": "polterheistroad",
+            "Uid": "overworldmap22node_top_7b"
+        },
+        "overworldmap22node_top_boss": {
+            "ChestType": "chestbosssuper",
+            "MapId": "overworldmap22",
+            "NodeConnections": "",
+            "NodeType": "polterheistforestboss",
+            "Uid": "overworldmap22node_top_boss"
+        },
+        "overworldmap23node_bot_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap23",
+            "NodeConnections": "",
+            "NodeType": "retrovariety",
+            "Uid": "overworldmap23node_bot_boss"
+        },
+        "overworldmap23node_bot_extra1": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap23",
+            "NodeConnections": "overworldmap23node_bot_6a,overworldmap23node_bot_6b",
+            "NodeType": "retrotown",
+            "Uid": "overworldmap23node_bot_extra1"
+        },
+        "overworldmap23node_top_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap23",
+            "NodeConnections": "",
+            "NodeType": "retrovariety",
+            "Uid": "overworldmap23node_top_boss"
+        },
+        "overworldmap23node_top_extra": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap23",
+            "NodeConnections": "overworldmap23node_top_8",
+            "NodeType": "retrotown",
+            "Uid": "overworldmap23node_top_extra"
+        },
+        "overworldmap24node_bot_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap24",
+            "NodeConnections": "",
+            "NodeType": "retrominiboss",
+            "Uid": "overworldmap24node_bot_boss"
+        },
+        "overworldmap24node_bot_extra1": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap24",
+            "NodeConnections": "overworldmap24node_bot_6a,overworldmap24node_bot_6b",
+            "NodeType": "retroforest",
+            "Uid": "overworldmap24node_bot_extra1"
+        },
+        "overworldmap24node_bot_extra2": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap24",
+            "NodeConnections": "overworldmap24node_bot_boss",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap24node_bot_extra2"
+        },
+        "overworldmap24node_top_6b": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap24",
+            "NodeConnections": "overworldmap24node_top_7b",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap24node_top_6b"
+        },
+        "overworldmap24node_top_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap24",
+            "NodeConnections": "",
+            "NodeType": "retrominiboss",
+            "Uid": "overworldmap24node_top_boss"
+        },
+        "overworldmap24node_top_extra": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap24",
+            "NodeConnections": "overworldmap24node_top_8",
+            "NodeType": "retroforest",
+            "Uid": "overworldmap24node_top_extra"
+        },
+        "overworldmap25node_bot_4a": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap25",
+            "NodeConnections": "overworldmap25node_bot_5",
+            "NodeType": "retrotown",
+            "Uid": "overworldmap25node_bot_4a"
+        },
+        "overworldmap25node_bot_6a": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap25",
+            "NodeConnections": "overworldmap25node_bot_extra,overworldmap25node_bot_boss",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap25node_bot_6a"
+        },
+        "overworldmap25node_bot_6b": {
+            "ChestType": "chestboostedskin",
+            "MapId": "overworldmap25",
+            "NodeConnections": "overworldmap25node_bot_extra,overworldmap25node_bot_boss",
+            "NodeType": "retrocity",
+            "Uid": "overworldmap25node_bot_6b"
+        },
+        "overworldmap25node_bot_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap25",
+            "NodeConnections": "",
+            "NodeType": "retrovariety",
+            "Uid": "overworldmap25node_bot_boss"
+        },
+        "overworldmap25node_top_5": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap25",
+            "NodeConnections": "overworldmap25node_top_6a,overworldmap25node_top_6b",
+            "NodeType": "retrofactory",
+            "Uid": "overworldmap25node_top_5"
+        },
+        "overworldmap25node_top_7b": {
+            "ChestType": "chestboostedskin",
+            "MapId": "overworldmap25",
+            "NodeConnections": "overworldmap25node_top_8",
+            "NodeType": "retroforest",
+            "Uid": "overworldmap25node_top_7b"
+        },
+        "overworldmap25node_top_9b": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap25",
+            "NodeConnections": "overworldmap25node_top_boss",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap25node_top_9b"
+        },
+        "overworldmap25node_top_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap25",
+            "NodeConnections": "",
+            "NodeType": "retrovariety",
+            "Uid": "overworldmap25node_top_boss"
+        },
+        "overworldmap26node_bot_5": {
+            "ChestType": "chestboostedskin",
+            "MapId": "overworldmap26",
+            "NodeConnections": "overworldmap26node_bot_6a,overworldmap26node_bot_6b,overworldmap26node_mid_2",
+            "NodeType": "retrorivertrail",
+            "Uid": "overworldmap26node_bot_5"
+        },
+        "overworldmap26node_bot_6b": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap26",
+            "NodeConnections": "overworldmap26node_bot_boss,overworldmap26node_bot_extra",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap26node_bot_6b"
+        },
+        "overworldmap26node_bot_boss": {
+            "ChestType": "chestbosssuper",
+            "MapId": "overworldmap26",
+            "NodeConnections": "",
+            "NodeType": "retrominiboss",
+            "Uid": "overworldmap26node_bot_boss"
+        },
+        "overworldmap26node_top_7b": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap26",
+            "NodeConnections": "overworldmap26node_top_8",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap26node_top_7b"
+        },
+        "overworldmap26node_top_9b": {
+            "ChestType": "chestboostedskin",
+            "MapId": "overworldmap26",
+            "NodeConnections": "overworldmap26node_top_boss",
+            "NodeType": "retrofactory",
+            "Uid": "overworldmap26node_top_9b"
+        },
+        "overworldmap26node_top_boss": {
+            "ChestType": "chestbosssuper",
+            "MapId": "overworldmap26",
+            "NodeConnections": "",
+            "NodeType": "retrominiboss",
+            "Uid": "overworldmap26node_top_boss"
+        },
+        "overworldmap27node_bot_4b": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap27",
+            "NodeConnections": "overworldmap27node_bot_5",
+            "NodeType": "retroforest",
+            "Uid": "overworldmap27node_bot_4b"
+        },
+        "overworldmap27node_bot_5": {
+            "ChestType": "chestboostedskin",
+            "MapId": "overworldmap27",
+            "NodeConnections": "overworldmap27node_mid_2,overworldmap27node_bot_6a,overworldmap27node_bot_6b,overworldmap27node_bot_extra",
+            "NodeType": "retrorivertrail",
+            "Uid": "overworldmap27node_bot_5"
+        },
+        "overworldmap27node_bot_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap27",
+            "NodeConnections": "",
+            "NodeType": "retroboss",
+            "Uid": "overworldmap27node_bot_boss"
+        },
+        "overworldmap27node_bot_extra": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap27",
+            "NodeConnections": "overworldmap27node_bot_boss",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap27node_bot_extra"
+        },
+        "overworldmap27node_top_3": {
+            "ChestType": "chestboostedskin",
+            "MapId": "overworldmap27",
+            "NodeConnections": "overworldmap27node_top_4a,overworldmap27node_top_4b",
+            "NodeType": "retrorivertrail",
+            "Uid": "overworldmap27node_top_3"
+        },
+        "overworldmap27node_top_5": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap27",
+            "NodeConnections": "overworldmap27node_top_6a,overworldmap27node_top_6b",
+            "NodeType": "retrorivertrail",
+            "Uid": "overworldmap27node_top_5"
+        },
+        "overworldmap27node_top_8": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap27",
+            "NodeConnections": "overworldmap27node_top_9a,overworldmap27node_top_9b",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap27node_top_8"
+        },
+        "overworldmap27node_top_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap27",
+            "NodeConnections": "",
+            "NodeType": "retroboss",
+            "Uid": "overworldmap27node_top_boss"
+        },
+        "overworldmap28node_bot_4a": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap28",
+            "NodeConnections": "overworldmap28node_bot_5",
+            "NodeType": "mobocore",
+            "Uid": "overworldmap28node_bot_4a"
+        },
+        "overworldmap28node_bot_6a": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap28",
+            "NodeConnections": "overworldmap28node_bot_extra,overworldmap28node_bot_boss",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap28node_bot_6a"
+        },
+        "overworldmap28node_bot_6b": {
+            "ChestType": "chestboostedskin",
+            "MapId": "overworldmap28",
+            "NodeConnections": "overworldmap28node_bot_extra,overworldmap28node_bot_boss",
+            "NodeType": "mobowires",
+            "Uid": "overworldmap28node_bot_6b"
+        },
+        "overworldmap28node_bot_boss": {
+            "ChestType": "chestbosssuper",
+            "MapId": "overworldmap28",
+            "NodeConnections": "",
+            "NodeType": "mobominiboss",
+            "Uid": "overworldmap28node_bot_boss"
+        },
+        "overworldmap28node_top_5": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap28",
+            "NodeConnections": "overworldmap28node_top_6a,overworldmap28node_top_6b",
+            "NodeType": "mobowires",
+            "Uid": "overworldmap28node_top_5"
+        },
+        "overworldmap28node_top_7b": {
+            "ChestType": "chestboostedskin",
+            "MapId": "overworldmap28",
+            "NodeConnections": "overworldmap28node_top_8",
+            "NodeType": "moboatx",
+            "Uid": "overworldmap28node_top_7b"
+        },
+        "overworldmap28node_top_9b": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap28",
+            "NodeConnections": "overworldmap28node_top_boss",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap28node_top_9b"
+        },
+        "overworldmap28node_top_boss": {
+            "ChestType": "chestbosssuper",
+            "MapId": "overworldmap28",
+            "NodeConnections": "",
+            "NodeType": "mobominiboss",
+            "Uid": "overworldmap28node_top_boss"
+        },
+        "overworldmap29node_bot_5": {
+            "ChestType": "chestboostedskin",
+            "MapId": "overworldmap29",
+            "NodeConnections": "overworldmap29node_bot_6a,overworldmap29node_bot_6b,overworldmap29node_mid_2",
+            "NodeType": "moboohm",
+            "Uid": "overworldmap29node_bot_5"
+        },
+        "overworldmap29node_bot_6b": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap29",
+            "NodeConnections": "overworldmap29node_bot_boss,overworldmap29node_bot_extra",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap29node_bot_6b"
+        },
+        "overworldmap29node_bot_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap29",
+            "NodeConnections": "",
+            "NodeType": "mobovariety",
+            "Uid": "overworldmap29node_bot_boss"
+        },
+        "overworldmap29node_top_7b": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap29",
+            "NodeConnections": "overworldmap29node_top_8",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap29node_top_7b"
+        },
+        "overworldmap29node_top_9b": {
+            "ChestType": "chestboostedskin",
+            "MapId": "overworldmap29",
+            "NodeConnections": "overworldmap29node_top_boss",
+            "NodeType": "mobocore",
+            "Uid": "overworldmap29node_top_9b"
+        },
+        "overworldmap29node_top_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap29",
+            "NodeConnections": "",
+            "NodeType": "mobovariety",
+            "Uid": "overworldmap29node_top_boss"
+        },
+        "overworldmap30node_bot_4b": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap30",
+            "NodeConnections": "overworldmap30node_bot_5",
+            "NodeType": "mobopsu",
+            "Uid": "overworldmap30node_bot_4b"
+        },
+        "overworldmap30node_bot_5": {
+            "ChestType": "chestboostedskin",
+            "MapId": "overworldmap30",
+            "NodeConnections": "overworldmap30node_mid_2,overworldmap30node_bot_6a,overworldmap30node_bot_6b,overworldmap30node_bot_extra",
+            "NodeType": "mobotransform",
+            "Uid": "overworldmap30node_bot_5"
+        },
+        "overworldmap30node_bot_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap30",
+            "NodeConnections": "",
+            "NodeType": "mobominiboss",
+            "Uid": "overworldmap30node_bot_boss"
+        },
+        "overworldmap30node_bot_extra": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap30",
+            "NodeConnections": "overworldmap30node_bot_boss",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap30node_bot_extra"
+        },
+        "overworldmap30node_top_3": {
+            "ChestType": "chestboostedskin",
+            "MapId": "overworldmap30",
+            "NodeConnections": "overworldmap30node_top_4a,overworldmap30node_top_4b",
+            "NodeType": "moboatx",
+            "Uid": "overworldmap30node_top_3"
+        },
+        "overworldmap30node_top_5": {
+            "ChestType": "chestboostedgold",
+            "MapId": "overworldmap30",
+            "NodeConnections": "overworldmap30node_top_6a,overworldmap30node_top_6b",
+            "NodeType": "moboatx",
+            "Uid": "overworldmap30node_top_5"
+        },
+        "overworldmap30node_top_8": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap30",
+            "NodeConnections": "overworldmap30node_top_9a,overworldmap30node_top_9b",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap30node_top_8"
+        },
+        "overworldmap30node_top_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap30",
+            "NodeConnections": "",
+            "NodeType": "mobominiboss",
+            "Uid": "overworldmap30node_top_boss"
+        },
+        "overworldmap31node_bot_4a": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap31",
+            "NodeConnections": "overworldmap31node_bot_5",
+            "NodeType": "mobocore",
+            "Uid": "overworldmap31node_bot_4a"
+        },
+        "overworldmap31node_bot_6a": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap31",
+            "NodeConnections": "overworldmap31node_bot_extra,overworldmap31node_bot_boss",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap31node_bot_6a"
+        },
+        "overworldmap31node_bot_6b": {
+            "ChestType": "chestboostedskin",
+            "MapId": "overworldmap31",
+            "NodeConnections": "overworldmap31node_bot_extra,overworldmap31node_bot_boss",
+            "NodeType": "mobotransform",
+            "Uid": "overworldmap31node_bot_6b"
+        },
+        "overworldmap31node_bot_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap31",
+            "NodeConnections": "",
+            "NodeType": "mobovariety",
+            "Uid": "overworldmap31node_bot_boss"
+        },
+        "overworldmap31node_top_5": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap31",
+            "NodeConnections": "overworldmap31node_top_6a,overworldmap31node_top_6b",
+            "NodeType": "moboohm",
+            "Uid": "overworldmap31node_top_5"
+        },
+        "overworldmap31node_top_7b": {
+            "ChestType": "chestboostedskin",
+            "MapId": "overworldmap31",
+            "NodeConnections": "overworldmap31node_top_8",
+            "NodeType": "moboatx",
+            "Uid": "overworldmap31node_top_7b"
+        },
+        "overworldmap31node_top_9b": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap31",
+            "NodeConnections": "overworldmap31node_top_boss",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap31node_top_9b"
+        },
+        "overworldmap31node_top_boss": {
+            "ChestType": "chestboss",
+            "MapId": "overworldmap31",
+            "NodeConnections": "",
+            "NodeType": "mobovariety",
+            "Uid": "overworldmap31node_top_boss"
+        },
+        "overworldmap32node_bot_5": {
+            "ChestType": "chestboostedskin",
+            "MapId": "overworldmap32",
+            "NodeConnections": "overworldmap32node_bot_6a,overworldmap32node_bot_6b,overworldmap32node_mid_2",
+            "NodeType": "moboohm",
+            "Uid": "overworldmap32node_bot_5"
+        },
+        "overworldmap32node_bot_6b": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap32",
+            "NodeConnections": "overworldmap32node_bot_boss,overworldmap32node_bot_extra",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap32node_bot_6b"
+        },
+        "overworldmap32node_bot_boss": {
+            "ChestType": "chestbosssuper",
+            "MapId": "overworldmap32",
+            "NodeConnections": "",
+            "NodeType": "mobominiboss",
+            "Uid": "overworldmap32node_bot_boss"
+        },
+        "overworldmap32node_top_7b": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap32",
+            "NodeConnections": "overworldmap32node_top_8",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap32node_top_7b"
+        },
+        "overworldmap32node_top_9b": {
+            "ChestType": "chestboostedskin",
+            "MapId": "overworldmap32",
+            "NodeConnections": "overworldmap32node_top_boss",
+            "NodeType": "mobocore",
+            "Uid": "overworldmap32node_top_9b"
+        },
+        "overworldmap32node_top_boss": {
+            "ChestType": "chestbosssuper",
+            "MapId": "overworldmap32",
+            "NodeConnections": "",
+            "NodeType": "mobominiboss",
+            "Uid": "overworldmap32node_top_boss"
+        },
+        "overworldmap33node_bot_4b": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap33",
+            "NodeConnections": "overworldmap33node_bot_5",
+            "NodeType": "mobowires",
+            "Uid": "overworldmap33node_bot_4b"
+        },
+        "overworldmap33node_bot_5": {
+            "ChestType": "chestboostedskin",
+            "MapId": "overworldmap33",
+            "NodeConnections": "overworldmap33node_mid_2,overworldmap33node_bot_6a,overworldmap33node_bot_6b,overworldmap33node_bot_extra",
+            "NodeType": "moboatx",
+            "Uid": "overworldmap33node_bot_5"
+        },
+        "overworldmap33node_bot_boss": {
+            "ChestType": "chestbosssuper",
+            "MapId": "overworldmap33",
+            "NodeConnections": "",
+            "NodeType": "mobovariety",
+            "Uid": "overworldmap33node_bot_boss"
+        },
+        "overworldmap33node_bot_extra": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap33",
+            "NodeConnections": "overworldmap33node_bot_boss",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap33node_bot_extra"
+        },
+        "overworldmap33node_top_3": {
+            "ChestType": "chestboostedskin",
+            "MapId": "overworldmap33",
+            "NodeConnections": "overworldmap33node_top_4a,overworldmap33node_top_4b",
+            "NodeType": "moboatx",
+            "Uid": "overworldmap33node_top_3"
+        },
+        "overworldmap33node_top_5": {
+            "ChestType": "chestboostedtoken",
+            "MapId": "overworldmap33",
+            "NodeConnections": "overworldmap33node_top_6a,overworldmap33node_top_6b",
+            "NodeType": "moboatx",
+            "Uid": "overworldmap33node_top_5"
+        },
+        "overworldmap33node_top_8": {
+            "ChestType": "chestboostedscroll",
+            "MapId": "overworldmap33",
+            "NodeConnections": "overworldmap33node_top_9a,overworldmap33node_top_9b",
+            "NodeType": "streamerboss",
+            "Uid": "overworldmap33node_top_8"
+        },
+        "overworldmap33node_top_boss": {
+            "ChestType": "chestbosssuper",
+            "MapId": "overworldmap33",
+            "NodeConnections": "",
+            "NodeType": "mobovariety",
+            "Uid": "overworldmap33node_top_boss"
+        }
+    }
+}
